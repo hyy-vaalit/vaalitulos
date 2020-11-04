@@ -20,6 +20,12 @@ title: Äänestäjät ajanhetken mukaan
       drawByFacultiesPercentageOnly,
       displayChartLoadError
     );
+
+    loadResultData(
+      discoverJsonUrl('votes_by_voter_start_year.json'),
+      drawByVoterStartYear,
+      displayChartLoadError
+    );
   }
 
   function roundedVotingPercentage(votes, total) {
@@ -124,6 +130,44 @@ title: Äänestäjät ajanhetken mukaan
     var byFaculties = new google.visualization.ColumnChart(document.getElementById('by-faculties-percentage-only'));
     byFaculties.draw(data, options);
   }
+
+  function drawByVoterStartYear(jsonData) {
+    rows = [];
+    rows.push(['Aloitusvuosi', 'Ääniä', 'Äänestäjiä', 'Äänestysprosentti']);
+
+    jsonData["children"]["start_years"].map((row) => {
+      let startYear = row.start_year.toString();
+      if (row["combined"] === true) {
+        startYear = "≤" + startYear;
+      }
+      // ignore unknown start years
+      if (startYear === "0") {
+        return;
+      }
+      rows.push([startYear, row.vote_count, row.voter_count, row.percentage])
+    });
+
+    var data = google.visualization.arrayToDataTable(rows);
+
+    var options = {
+      title: "Äänestysaktiivisuus opintojen aloitusvuoden mukaan",
+      legend: { position: 'top' },
+      width: 'auto',
+      height: 350,
+      series: {
+        0: { targetAxisIndex: 0 },
+        1: { targetAxisIndex: 0 },
+        2: { targetAxisIndex: 1 }
+      },
+      vAxes: {
+        0: { title: 'Lukumäärä' },
+        1: { title: 'Äänestysprosentti' }
+      }
+    };
+
+    var byFaculties = new google.visualization.ColumnChart(document.getElementById('by-voter-start-year'));
+    byFaculties.draw(data, options);
+  }
 </script>
 
 <h2>Äänestysaktiivisuus</h2>
@@ -141,3 +185,7 @@ title: Äänestäjät ajanhetken mukaan
 <h2>Tilasto tiedekunnittain</h2>
 
 <div id="by-faculties-percentage-only"></div>
+
+<h2>Tilasto aloitusvuoden mukaan</h2>
+
+<div id="by-voter-start-year"></div>
