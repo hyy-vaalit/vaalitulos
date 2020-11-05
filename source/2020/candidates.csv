@@ -1,0 +1,491 @@
+Ehdokasnumero;Sukunimi;Etunimi;Ehdokasnimi;Vaaliliiton ID;Vaaliliitto
+2;Sjöström;Kim;Sjöström, Kim;19;Liberaalinen Vaaliliitto - yksilöllisyyden ja valinnanvapauden edistämiseksi
+3;Andersson;Timo Tapio;Andersson, Timo;19;Liberaalinen Vaaliliitto - yksilöllisyyden ja valinnanvapauden edistämiseksi
+4;Aapro;Wilma Karoliina;Aapro, Wilma;7;HELP HLKS/LKS
+5;Ahonen;Tuuli Johanna;Ahonen, Tuuli;7;HELP HLKS/LKS
+6;Arpalahti;Annamari Johanna;Arpalahti, Annamari;7;HELP HLKS/LKS
+7;Byman;Minna Saga Christina;Byman, Saga;7;HELP HLKS/LKS
+8;Kankaanpää;Jutta Anneli;Kankaanpää, Jutta;7;HELP HLKS/LKS
+9;Kettunen;Aarne Sakari;Kettunen, Sakari;7;HELP HLKS/LKS
+10;Korkee;Verneri Petter;Korkee, Verneri;7;HELP HLKS/LKS
+11;Kääriä;Samuli Severi;Kääriä, Samuli;7;HELP HLKS/LKS
+12;Lahtiharju;Arttu Juho Iisakki;Lahtiharju, Arttu;7;HELP HLKS/LKS
+13;Lankinen;Venla Iida Liina;Lankinen, Venla;7;HELP HLKS/LKS
+14;Lintervo;Osmo Valdemar;Lintervo, Osmo;7;HELP HLKS/LKS
+15;Liu;Ville Dan Mikael;Liu, Ville;7;HELP HLKS/LKS
+16;Oura;Riki;Oura, Riki;7;HELP HLKS/LKS
+17;Paajanen;Anna Martta Kaarina;Paajanen, Anna;7;HELP HLKS/LKS
+18;Peltonen;Miina Maria;Peltonen, Miina;7;HELP HLKS/LKS
+19;Posa;Matias Juho Santeri;Posa, Matias;7;HELP HLKS/LKS
+20;Rantama;Pinja Emilia;Rantama, Pinja;7;HELP HLKS/LKS
+21;Salaja;Lauri Tapio;Salaja, Lauri;7;HELP HLKS/LKS
+22;Särkilahti;Iiris Annikki;Särkilahti, Iiris;7;HELP HLKS/LKS
+23;Takala;Sini Vuokko Sofia;Takala, Sini;7;HELP HLKS/LKS
+24;Toppari;Linda Emilia;Toppari, Linda 'Toppari';7;HELP HLKS/LKS
+25;Vartiainen;Heini Inkeri;Vartiainen, Heini;7;HELP HLKS/LKS
+26;Weselius;Johanna Lemmikki;Weselius, Johanna 'Jonsu';7;HELP HLKS/LKS
+27;Westerholm;Satu Katariina;Westerholm, Satu;7;HELP HLKS/LKS
+28;Antelo;Lauri Henrik;Antelo, Lauri;10;HELP EKY/YFK
+29;Haapalainen;Joonatan Thomas Viljami;Haapalainen, Joonatan;10;HELP EKY/YFK
+30;Hakasalo;Santtu Matti;Hakasalo, Santtu;10;HELP EKY/YFK
+31;Hintikka;Simo Johannes;Hintikka, Simo;10;HELP EKY/YFK
+32;Itkonen;Laura Ilona;Itkonen, Laura;10;HELP EKY/YFK
+33;Jämsä;Minnamaria Kristiina;Jämsä, Mima;10;HELP EKY/YFK
+34;Järvi;Iiro Juhani;Järvi, Iiro;10;HELP EKY/YFK
+35;Kallio;Aleksi Onni Oskari;Kallio, Aleksi;10;HELP EKY/YFK
+36;Kankaanpää;Mari Katariina;Kankaanpää, Mari;10;HELP EKY/YFK
+37;Kivistö;Kanerva Inkeri;Kivistö, Kanerva;10;HELP EKY/YFK
+38;Kokko;Riikka Katriina;Kokko, Riikka;10;HELP EKY/YFK
+39;Kokko;Saana Greta;Kokko, Saana;10;HELP EKY/YFK
+40;Keskimäki;Sanne Maria;Keskimäki, Sanne;10;HELP EKY/YFK
+41;Lahdentausta;Salla Maria Katriina;Lahdentausta, Salla;10;HELP EKY/YFK
+42;Lehmus;Anniina Aino Emilia;Lehmus, Anniina;10;HELP EKY/YFK
+43;Loukola;Johanna Tuulia;Loukola, Johanna;10;HELP EKY/YFK
+44;Martikainen;Joanna Maria;Martikainen, Joanna;10;HELP EKY/YFK
+45;Meriläinen;Henrik Tapio Aabraham;Meriläinen, Henrik;10;HELP EKY/YFK
+46;Metsähuone;Viena Ella Amanda;Metsähuone, Viena;10;HELP EKY/YFK
+47;Määttä;Roosa Katariina;Määttä, Roosa;10;HELP EKY/YFK
+48;Niskanen;Nelli Pirita;Niskanen, Nelli;10;HELP EKY/YFK
+49;Pietilä;Alexander Johannes;Pietilä, Alexander;10;HELP EKY/YFK
+50;Puharinen;Jarkko Samuli;Puharinen, Jarkko;10;HELP EKY/YFK
+51;Rentto;Lauri Edvard;Rentto, Lauri;10;HELP EKY/YFK
+52;Saaristo;Teea Katariina;Saaristo, Teea;10;HELP EKY/YFK
+53;Snellman;Sofia Aurora;Snellman, Sofia;10;HELP EKY/YFK
+54;Takala;Milla Pauliina;Takala, Milla;10;HELP EKY/YFK
+55;Teräväinen;Katja Eeva Elina;Teräväinen, Katja;10;HELP EKY/YFK
+56;Uotila;Sandra Eila Maria;Uotila, Sandra;10;HELP EKY/YFK
+57;Ahlgrén;Hilda Anniina;Ahlgrén, Hilda;17;HELP Pykälä/Codex/Justus
+58;Aho;Tuomas Tapani;Aho, Tuomas;17;HELP Pykälä/Codex/Justus
+59;Aila;Santeri Jaakko Matias;Aila, Santeri;17;HELP Pykälä/Codex/Justus
+60;Backström;Claes-Håkan Ferdinand;Backström, Claes;17;HELP Pykälä/Codex/Justus
+61;Cederberg;Joar Per Fredrik;Cederberg, Joar;17;HELP Pykälä/Codex/Justus
+62;Hieta-aho;Helmi Asta Maria;Hieta-aho, Helmi;17;HELP Pykälä/Codex/Justus
+63;Holm;Jonas Gustav Alexander;Holm, Jonas;17;HELP Pykälä/Codex/Justus
+64;Idänpään-Heikkilä;Aurora Juliette;Idänpään-Heikkilä, Aurora;17;HELP Pykälä/Codex/Justus
+65;Ilveskero;Joel Johannes;Ilveskero, Joel;17;HELP Pykälä/Codex/Justus
+66;Isola;Valtteri Matias;Isola, Valtteri;17;HELP Pykälä/Codex/Justus
+67;Kaarakainen;Henri Juhani;Kaarakainen, Henri;17;HELP Pykälä/Codex/Justus
+68;Kettunen;Eeli Otto Olavi;Kettunen, Eeli;17;HELP Pykälä/Codex/Justus
+69;Kivi-Koskinen;Anni Sofia;Kivi-Koskinen, Sofi;17;HELP Pykälä/Codex/Justus
+70;Lottonen;Johannes Aleksanteri;Lottonen, Johannes;17;HELP Pykälä/Codex/Justus
+71;Lumilahti;Juuso Tapio Johannes;Lumilahti, Juuso;17;HELP Pykälä/Codex/Justus
+72;Markkanen;Kalle Aleksi;Markkanen, Kalle;17;HELP Pykälä/Codex/Justus
+73;Nieminen;Marika Pauliina;Nieminen, Marika;17;HELP Pykälä/Codex/Justus
+74;Nurminen;Sammy Anttoni;Nurminen, Sammy;17;HELP Pykälä/Codex/Justus
+75;Oravainen;Sari Susanna;Oravainen, Sari;17;HELP Pykälä/Codex/Justus
+76;Palo;Teuvo Joonatan;Palo, Joonatan;17;HELP Pykälä/Codex/Justus
+77;Palo;Saara Amanda;Palo, Saara;17;HELP Pykälä/Codex/Justus
+78;Peltonen;Hekma Maria Abdela;Peltonen, Hekma;17;HELP Pykälä/Codex/Justus
+79;Pihlavamäki;Jatro Jasper Alarik;Pihlavamäki, Jatro;17;HELP Pykälä/Codex/Justus
+80;Piirainen;Sara Helinä;Piirainen, Sara;17;HELP Pykälä/Codex/Justus
+81;Rosengren;Axel Kristian;Rosengren, Axel;17;HELP Pykälä/Codex/Justus
+82;Saari;Sakari Thomas;Saari, Sakari;17;HELP Pykälä/Codex/Justus
+83;Selkämaa;Anna-Sofia Susanna;Selkämaa, Sofia;17;HELP Pykälä/Codex/Justus
+84;Teräsvuori;Lauri Antti Oskari;Teräsvuori, Lauri;17;HELP Pykälä/Codex/Justus
+85;Tolonen;Joonas Eemeli;Tolonen, Joonas;17;HELP Pykälä/Codex/Justus
+86;Vuollet;Irene Cecilia;Vuollet, Irene;17;HELP Pykälä/Codex/Justus
+87;Wallgren;Georg Ville;Wallgren, Ville;17;HELP Pykälä/Codex/Justus
+88;Broända;Anton Mikael Elias;Broända, Anton;6;Svenska Nationer och Ämnesföreningar
+89;Cederlöf;Dan Rafael;Cederlöf, Dan;6;Svenska Nationer och Ämnesföreningar
+90;Engström;Mira Aurora;Engström, Mira;6;Svenska Nationer och Ämnesföreningar
+91;Heikkilä;Emma Maria Selina;Heikkilä, Emma;6;Svenska Nationer och Ämnesföreningar
+92;Helaskoski;Linda Catarina;Helaskoski, Linda;6;Svenska Nationer och Ämnesföreningar
+93;Mickos;Viola Paulina;Mickos, Viola;6;Svenska Nationer och Ämnesföreningar
+94;Sundström;Ester Margareta;Sundström, Ester;6;Svenska Nationer och Ämnesföreningar
+95;Fellman;Aslak Joutsi Johannes;Fellman, Aslak;6;Svenska Nationer och Ämnesföreningar
+96;Mickos;Elin Johanna;Mickos, Elin;6;Svenska Nationer och Ämnesföreningar
+97;Alasara;Alexandra;Alasara, Alexandra;6;Svenska Nationer och Ämnesföreningar
+98;Backström;Anna Josefina;Backström, Anna;6;Svenska Nationer och Ämnesföreningar
+99;Björklund;Sara Alexandra;Björklund, Sara;6;Svenska Nationer och Ämnesföreningar
+100;Bergh;Claes Berndt-Gustaf;Bergh, Claes;6;Svenska Nationer och Ämnesföreningar
+101;Frostdahl;Lina Anna Sofia;Frostdahl, Lina;6;Svenska Nationer och Ämnesföreningar
+102;Hasselblatt;Lucas Wilhelm;Hasselblatt, Lucas;6;Svenska Nationer och Ämnesföreningar
+103;Johansson Lundberg;Susanna Isa;Johansson Lundberg, Susanna;6;Svenska Nationer och Ämnesföreningar
+104;Liemola;Morris Tomsson;Liemola, Morris;6;Svenska Nationer och Ämnesföreningar
+105;Lindfors;Matilda Emma Maria;Lindfors, Matilda;6;Svenska Nationer och Ämnesföreningar
+106;Lindh;Ronja;Lindh, Ronja;6;Svenska Nationer och Ämnesföreningar
+107;Suomela;Oscar Tobias;Suomela, Oscar;6;Svenska Nationer och Ämnesföreningar
+108;Taipale;Selja Amanda;Taipale, Selja;6;Svenska Nationer och Ämnesföreningar
+109;Rapo;Elvira Maria Elisabet;Rapo, Elvira;6;Svenska Nationer och Ämnesföreningar
+110;Rehn;Julia Carolina Alice;Rehn, Julia;6;Svenska Nationer och Ämnesföreningar
+111;Kainulainen;Tuukka Aleksanteri;Kainulainen, Tuukka;6;Svenska Nationer och Ämnesföreningar
+112;Wahlgren;Titus Bertel Gaston;Wahlgren, Titus;6;Svenska Nationer och Ämnesföreningar
+113;Bergan;Benjamin Mathias Parelius;Bergan, Benjamin;6;Svenska Nationer och Ämnesföreningar
+114;Bosas;Janina Emilia Margareta;Bosas, Janina;6;Svenska Nationer och Ämnesföreningar
+115;Henriksson;Johan Sebastian;Henriksson, Sebastian;6;Svenska Nationer och Ämnesföreningar
+116;Westerlund;Mikael Henrik Sebastian;Westerlund, Mikael;6;Svenska Nationer och Ämnesföreningar
+117;Westermarck;Emilia Regina;Westermarck, Emmi;6;Svenska Nationer och Ämnesföreningar
+118;Kuhlefelt;Jessica Maria;Kuhlefelt, Jessica;6;Svenska Nationer och Ämnesföreningar
+119;Koskela;Calle Johannes;Koskela, Calle;6;Svenska Nationer och Ämnesföreningar
+120;Nyman;Simon Johannes;Nyman, Simon;6;Svenska Nationer och Ämnesföreningar
+121;Wik;Julia Alice Victoria;Wik, Julia;6;Svenska Nationer och Ämnesföreningar
+122;Grönroos;Kalle Eemeli Valentin;Grönroos, Kalle;6;Svenska Nationer och Ämnesföreningar
+123;Ulenius;Karl Albert Niklas;Ulenius, Albert;6;Svenska Nationer och Ämnesföreningar
+124;Mickos;Ina Magdalena;Mickos, Ina;6;Svenska Nationer och Ämnesföreningar
+125;Lindblom;Mathilda Carita;Lindblom, Mathilda;6;Svenska Nationer och Ämnesföreningar
+126;Ahmala;Elina Marian;Ahmala, Elina;3;Osakunnat 1
+127;Hunnakko;Joel Antti Johannes;Hunnakko, Joel;3;Osakunnat 1
+128;Hyvönen;Ella Riikka Karoliina;Hyvönen, Ella;3;Osakunnat 1
+129;Karhula;Robi Falkon Kasper;Karhula, Robi;3;Osakunnat 1
+130;Karvonen;Riina Tuulia;Karvonen, Riina;3;Osakunnat 1
+131;Kelokari;Linda-Liisa Wilhelmiina;Kelokari, Linda-Liisa;3;Osakunnat 1
+132;Lepistö;Essi Anniina;Lepistö, Essi;3;Osakunnat 1
+133;Penttinen;Aapo Martti Eemeli;Penttinen, Aapo;3;Osakunnat 1
+134;Romanowski;Paul Otto Andreas;Romanowski, Paul;3;Osakunnat 1
+135;Ruuttunen;Tuomas Petteri;Ruuttunen, Tuomas;3;Osakunnat 1
+136;Saukkonen;Tuulia Sini Sofinella;Saukkonen, Tuulia;3;Osakunnat 1
+137;Savolainen;Eeva-Miina Justiina;Savolainen, Eeva-Miina;3;Osakunnat 1
+138;Tuokko;Kaarina Merete Aurora;Tuokko, Kaarina;3;Osakunnat 1
+139;Virto;Ella Helena;Virto, Ella;3;Osakunnat 1
+140;Atak;Kerem Mikko Osman;Atak, Kerem;3;Osakunnat 1
+141;Eskelinen;Juho Pekka Aleksi;Eskelinen, Juho;3;Osakunnat 1
+142;Piipponen;Iida Anniina;Piipponen, Iida;3;Osakunnat 1
+143;Ponkilainen;Jesse Tarmo Santeri;Ponkilainen, Kata;3;Osakunnat 1
+144;Ahtiainen-Helanne;Salli Katariina;Ahtiainen-Helanne, Salli;3;Osakunnat 1
+145;Pykälistö;Pasi Pertti;Pykälistö, Pasi;3;Osakunnat 1
+146;Salokoski;Janne Sakari;Salokoski, Janne;3;Osakunnat 1
+147;Hatakka;Joona Ilari;Hatakka, Ilari;3;Osakunnat 1
+148;Hatakka;Lauri Mikael;Hatakka, Lauri;3;Osakunnat 1
+149;Kallinen;Roosa Emilia;Kallinen, Roosa;3;Osakunnat 1
+150;Kaukanen;Kari-Matti;Kaukanen, Kari;3;Osakunnat 1
+151;Martikainen;Atte Otso Joonatan;Martikainen, Atte;3;Osakunnat 1
+152;Nieminen;Sanni Liisa Pauliina;Nieminen, Sanni;3;Osakunnat 1
+153;Penttinen;Visa Olli Akseli;Penttinen, Visa;3;Osakunnat 1
+154;Roponen;Emilia Helena;Roponen, Emilia 'Mami';3;Osakunnat 1
+155;Tanttu;Olli Matti Tapio;Tanttu, Olli;3;Osakunnat 1
+156;Alho;Erika Anneli;Alho, Erika;3;Osakunnat 1
+157;Grönroos;Sonja Maria;Grönroos, Sonja;3;Osakunnat 1
+158;Roine;Eino Juhani Kalevi;Roine, Eino;3;Osakunnat 1
+159;Tuominen;Niko Petteri;Tuominen, Niko;3;Osakunnat 1
+160;Tuomola;Laura Johanna;Tuomola, Laura;3;Osakunnat 1
+161;Kaskinen;Olli-Aaron Aleksanteri;Kaskinen, Olli-Aaron;3;Osakunnat 1
+162;Kivimäki;Seppo Olavi;Kivimäki, Seppo;3;Osakunnat 1
+163;Mattila;Siiri Asta Alina;Mattila, Siiri;3;Osakunnat 1
+164;Nurminen;Patrik Arto;Nurminen, Patrik;3;Osakunnat 1
+165;Nurminen;Niklas Kaarlo;Nurminen, Niklas;3;Osakunnat 1
+166;Roiha;Ulriikka Eleonoora;Roiha, Ulriikka;3;Osakunnat 1
+167;Tanhola;Jaakko Hermanni;Tanhola, Jaakko Hermanni;3;Osakunnat 1
+168;Aho;Jenni Jasmin;Aho, Jenni;4;Osakunnat 2
+169;Hasunen;Sami Oskari;Hasunen, Sami;4;Osakunnat 2
+170;Huhtamäki;Rosa Maria Matilda;Huhtamäki, Rosa;4;Osakunnat 2
+171;Hunnakko;Jenni Kaarina;Hunnakko, Jenni;4;Osakunnat 2
+172;Höykinpuro;Kirsi Pauliina;Höykinpuro, Kirsi;4;Osakunnat 2
+173;Kettunen;Ilkka Henrikki;Kettunen, Ilkka;4;Osakunnat 2
+174;Luoma-Lammi;Johanna Maria;Luoma-Lammi, Johanna;4;Osakunnat 2
+175;Ojaluoma;Aino Sofia;Ojaluoma, Aino;4;Osakunnat 2
+176;Pitkänen;Katriina Annika;Pitkänen, Katriina;4;Osakunnat 2
+177;Rantala;Helena Eeva Ulriika;Rantala, Helena;4;Osakunnat 2
+178;Rinta-Koski;Aino Kaarina;Rinta-Koski, Aino;4;Osakunnat 2
+179;Saarteenoja;Kaisla Lyydia;Saartenoja, Kaisla;4;Osakunnat 2
+180;Uusipaikka;Otto Lauri Olavi;Uusipaikka, Otto;4;Osakunnat 2
+181;Anttila;Maria Kristina;Anttila, Maria;4;Osakunnat 2
+182;Kivimäki;Anni Ira Stina;Kivimäki, Anni;4;Osakunnat 2
+183;Laine;Taneli Esko Eemeli;Laine, Taneli;4;Osakunnat 2
+184;Lamberg;Benjamin Samu;Lamberg, Benjamin;4;Osakunnat 2
+185;Lehtinen;Aino Kaisa Inkeri;Lehtinen, Aino;4;Osakunnat 2
+186;Molin;Niko Alex Vilmari;Molin, Niko;4;Osakunnat 2
+187;Sainio;Mitja Myrsky;Sainio, Mitja;4;Osakunnat 2
+188;Silfverhuth;Iida-Maija Eveliina;Silfverhuth, Iida;4;Osakunnat 2
+189;Solehmainen;Jukka Antero;Solehmainen, Jukka;4;Osakunnat 2
+190;Sukuvaara;Kaarlo Paavali;Sukuvaara, Kaarlo;4;Osakunnat 2
+191;Tolonen;Jukka Emil;Tolonen, Jukka;4;Osakunnat 2
+192;Enckell;Casper Christian;Enckell, Casper;4;Osakunnat 2
+193;Ojala;Juha Tapani;Ojala, Juha;4;Osakunnat 2
+194;Pollari;Antti Oskari;Pollari, Antti;4;Osakunnat 2
+195;Suhonen;Emmi Pauliina;Suhonen, Emmi;4;Osakunnat 2
+196;Djakonowsky;Maria Christina Elisabeth;Djakonowsky, Maria;4;Osakunnat 2
+197;Haapala;Lempi Maiju Tellervo;Haapala, Lempi;4;Osakunnat 2
+198;Heinänen;Taneli Axel;Heinänen, Taneli;4;Osakunnat 2
+199;Hietanen;Petra Maria Kyllikki;Hietanen, Petra;4;Osakunnat 2
+200;Kamppikoski;Ari Väinö Juhani;Kamppikoski, Ari;4;Osakunnat 2
+201;Mäkipää;Mikko Tapani;Mäkipää, Mikko;4;Osakunnat 2
+202;Paloviita;Miliza Maria Pauliina;Paloviita, Miliza;4;Osakunnat 2
+203;Peltonen;Reetta Julietta;Peltonen, Reetta;4;Osakunnat 2
+204;Sarasvirta;Afrin Kira Eloise;Sarasvirta, Afrin;4;Osakunnat 2
+205;Terho;Iikka Iivari Tapio;Terho, Iikka;4;Osakunnat 2
+206;Tienhaara;Kristian Niko Sebastian;Tienhaara, Kristian;4;Osakunnat 2
+207;Ahola;Maria Elisabeth;Ahola, Maria;15;HYAL Humanistit
+208;Aittola;Aaretti;Aittola, Aaretti, ''Okko'';15;HYAL Humanistit
+209;Granström;Sampsa Wilhelm;Granström, Sampsa;15;HYAL Humanistit
+210;Grünthal;Lauri Emil Villen;Grünthal, Lauri;15;HYAL Humanistit
+211;Grönroos;Aapo Juhani;Grönroos, Aapo;15;HYAL Humanistit
+212;Hergueta;Valentine Morgane Madeline;Hergueta, Valentine;15;HYAL Humanistit
+213;Houttu;Henna Anneli;Houttu, Henna;15;HYAL Humanistit
+214;Härmä;Elina Eeva Lyydia;Härmä, Elina;15;HYAL Humanistit
+215;Kalliokoski;Timo Johannes;Kalliokoski, Timo;15;HYAL Humanistit
+216;Melander;Etta Enni Bettina;Melander, Etta;15;HYAL Humanistit
+217;Murtola;Karoliina Maria;Murtola, Karoliina;15;HYAL Humanistit
+218;Palojärvi;Emma Sofia;Palojärvi, Emma;15;HYAL Humanistit
+219;Quednau;Vanessa Margarete;Quednau, Vanessa;15;HYAL Humanistit
+220;Rangel Bustamante;Francisco;Rangel, Francisco;15;HYAL Humanistit
+221;Siljander;Iisa Saana Loviisa;Siljander, Saana;15;HYAL Humanistit
+222;Suttle;Jan-Erik Alexandru;Suttle, Erik;15;HYAL Humanistit
+223;Väänänen;Samuel Matias;Väänänen, Samuel;15;HYAL Humanistit
+224;Halme;Eetu Olavi;Halme, Eetu;14;HYAL Kumpula
+225;Hippeläinen;Antti Mikael;Hippeläinen, Antti 'Hippe';14;HYAL Kumpula
+226;Isomeri;Jessika Adele;Isomeri, Jessika;14;HYAL Kumpula
+227;Katajisto;Mila Meira Pirita;Katajisto, Mila;14;HYAL Kumpula
+228;Keltanen;Eeva Linnea;Keltanen, Linnea;14;HYAL Kumpula
+229;Kujala;Nicholas Mathew Zachary;Kujala, Nicholas;14;HYAL Kumpula
+230;Laihanen;Ira Eva Maria;Laihanen, Ira;14;HYAL Kumpula
+231;Laitinen;Tomi Lauri;Laitinen, Tomi 'Tomppa';14;HYAL Kumpula
+232;Lempiäinen;Hanna Hirut Adamu;Lempiäinen, Hanna;14;HYAL Kumpula
+233;Malinen;Henri Juhani;Malinen, Henri;14;HYAL Kumpula
+234;Niskala;Iiro Heikki Kalevi;Niskala, Iiro;14;HYAL Kumpula
+235;Pellinen;Mikko Tuomas Juhani;Pellinen, Mikko;14;HYAL Kumpula
+236;Raskala;Sanni Elina;Raskala, Sanni;14;HYAL Kumpula
+237;Saari;Ville-Veikko Raafael;Saari, Ville-Veikko;14;HYAL Kumpula
+238;Öhrnberg;Ronja Riina Karoliina;Öhrnberg, Ronja;14;HYAL Kumpula
+239;De Pascale;Samuli Nestori;De Pascale, Samuli 'Smuli';9;HYAL Penger
+240;Haapamäki;Siru;Haapamäki, Siru;9;HYAL Penger
+241;Hakala;Nea-Julia Kristiina;Hakala, Nea;9;HYAL Penger
+242;Hirvonen;Kaisa-Lotta Lovisa;Hirvonen, Lovisa 'Lollo';9;HYAL Penger
+243;Kanerva;Suvi Elina;Kanerva, Suvi;9;HYAL Penger
+244;Klöve;Karin Aurora;Klöve, Karin;9;HYAL Penger
+245;Lahin;Laura Elina;Lahin, Laura;9;HYAL Penger
+246;Laine;Tea Tuulikki;Laine, Tea;9;HYAL Penger
+247;Mäki;Tommi Jussi Kristian;Mäki, Tommi;9;HYAL Penger
+248;Nyyssönen;Sophie Jasmine Alexandra;Nyyssönen, Sophie;9;HYAL Penger
+249;Pulli;Petra Pauliina;Pulli, Petra;9;HYAL Penger
+250;Puumalainen;Julia Linnea Josefiina;Puumalainen, Julia;9;HYAL Penger
+251;Simola;Paula Helena;Simola, Paula;9;HYAL Penger
+252;Ahtikivi;Ida Adeleine Eufemia;Ahtikivi, Ida 'Ade';12;HYAL Teologit
+253;Huikku;Jasmin Mirja Tellervo;Huikku, Jasmin;12;HYAL Teologit
+254;Järvelä;Juulia Eveliina;Järvelä, Juulia;12;HYAL Teologit
+255;Kanerva;Oskari Onni Olavi;Kanerva, Oskari;12;HYAL Teologit
+256;Nikki;Anni-Sofia Aleksandra;Nikki, Anni-Sofia;12;HYAL Teologit
+257;Rantanen;Krista Anneli;Rantanen, Krista;12;HYAL Teologit
+258;Rättyä;Jonna Emilia;Rättyä, Jonna;12;HYAL Teologit
+259;Vismanen;Jori Pekka Jeriel;Vismanen, Jori;12;HYAL Teologit
+260;Helminen;Kata Nicole;Helminen, Kata;13;HYAL Valtsika
+261;Ikävalko;Aino Inkeri;Ikävalko, Aino;13;HYAL Valtsika
+262;Journet;Axelle;Journet, Axelle;13;HYAL Valtsika
+263;Kallio;Amanda Mariette;Kallio, Amanda;13;HYAL Valtsika
+264;Kettunen;Anniina Silja Susanna;Kettunen, Anniina;13;HYAL Valtsika
+265;Laukkanen;Amanda Eeva Esteri;Laukkanen, Amanda;13;HYAL Valtsika
+266;Nevalainen;Veera Katariina;Nevalainen, Veera;13;HYAL Valtsika
+267;Ostrovskij;Tommi Mikael;Ostrovskij, Tommi;13;HYAL Valtsika
+268;Rantanen;Jyrki Juhani;Rantanen, Jyrki;13;HYAL Valtsika
+269;Saki de la Lastra;Dario;de la Lastra, Dario;13;HYAL Valtsika
+270;Sinisalo;Mikko Seppo Iivari;Sinisalo, Mikko;13;HYAL Valtsika
+271;Tikanoja;Eemu Juhani;Tikanoja, Eemu;13;HYAL Valtsika
+272;Wathén;Laura Maria;Wathén, Laura;13;HYAL Valtsika
+273;Kaansalo;Katariina Emilia;Kaansalo, Katariina;8;HYAL Viikki
+274;Korpela;Catarina Sofie;Korpela, Catarina;8;HYAL Viikki
+275;Lehtonen;Harry Mikael;Lehtonen, Mikael;8;HYAL Viikki
+276;Lindell;Katja Mirjam;Lindell, Katja;8;HYAL Viikki
+277;Nyman;Onni Anton;Nyman, Onni;8;HYAL Viikki
+278;Pekkarinen;Satu Helena;Pekkarinen, Satu;8;HYAL Viikki
+279;Korvuo;Tuire Tuulia;Korvuo, Tuire;16;HYAL Meikku
+280;Nokkala;Jaakko Immo Antero;Nokkala, Jaakko;16;HYAL Meikku
+281;Alahuhta;Veera Elisa;Alahuhta, Veera;2;Opiskelijoiden sosialidemokraattinen yhdistys
+282;Alimy;Zahra;Alimy, Zahra;2;Opiskelijoiden sosialidemokraattinen yhdistys
+283;Behnke;Hanno Olavi;Behnke, Hanno;2;Opiskelijoiden sosialidemokraattinen yhdistys
+284;Eronen;Tuukka Ilari;Eronen, Tuukka;2;Opiskelijoiden sosialidemokraattinen yhdistys
+285;Gustafsson;Aleksanteri Tuisku;Gustafsson, Aleksanteri;2;Opiskelijoiden sosialidemokraattinen yhdistys
+286;Holappa;Sara Eveliina;Holappa, Sara;2;Opiskelijoiden sosialidemokraattinen yhdistys
+287;Jääskeläinen;Jesse Joonas;Jääskeläinen, Jesse;2;Opiskelijoiden sosialidemokraattinen yhdistys
+288;Järvinen;Aku-Oskari;Järvinen, Aku-Oskari;2;Opiskelijoiden sosialidemokraattinen yhdistys
+289;Kapanen;Miro;Kapanen, Miro;2;Opiskelijoiden sosialidemokraattinen yhdistys
+290;Kinnunen;Venla Riina Anniina;Kinnunen, Venla;2;Opiskelijoiden sosialidemokraattinen yhdistys
+291;Leppänen;Meri Katriina;Leppänen, Meri;2;Opiskelijoiden sosialidemokraattinen yhdistys
+292;Luukkainen;Elli Lempi Elmiina;Luukkainen, Elli;2;Opiskelijoiden sosialidemokraattinen yhdistys
+293;Mäkynen;Matias Mikael;Mäkynen, Matias;2;Opiskelijoiden sosialidemokraattinen yhdistys
+294;Matteinen;Heikki Urho Petteri;Matteinen, Petteri;2;Opiskelijoiden sosialidemokraattinen yhdistys
+295;Mattila;Jere Vilho Valtteri;Mattila, Jere;2;Opiskelijoiden sosialidemokraattinen yhdistys
+296;Nevalainen;Sofia Loviisa;Nevalainen, Sofia;2;Opiskelijoiden sosialidemokraattinen yhdistys
+297;Qiu;Toivo Eemil Hanyun;Qiu, Toivo;2;Opiskelijoiden sosialidemokraattinen yhdistys
+298;Rissanen;Simo Valtteri;Rissanen, Simo;2;Opiskelijoiden sosialidemokraattinen yhdistys
+299;Rönkkö;Riina Maria;Rönkkö, Riina;2;Opiskelijoiden sosialidemokraattinen yhdistys
+300;Suontakanen;Teppo Ilari;Suontakanen, Teppo;2;Opiskelijoiden sosialidemokraattinen yhdistys
+301;Vaateri;Irja Ella Anniina;Vaateri, Irja;2;Opiskelijoiden sosialidemokraattinen yhdistys
+302;Ahmala;Arttu Niilo Juhani;Ahmala, Arttu;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+303;Alanen;Valpuri Aurora;Alanen, Valpuri;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+304;Castrén;Olli Severi Juhananpoika;Castrén, Olli;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+305;Catani;Hanna Katrina;Catani, Hanna;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+306;Colaneri;Carlo Eugenio;Colaneri, Eugenio;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+307;Gustafsson;Anna Minna Inari;Gustafsson, Inari;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+308;Hanhijoki;Touko Taneli;Hanhijoki, Touko;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+309;Hansson;Frej Axel;Hansson, Axel;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+310;Harviainen;Juha Arvo Mikael;Harviainen, Juha;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+311;Heikkilä;Taavi Mattias;Heikkilä, Taavi;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+312;Heinonen;Marianna;Heinonen, Marianna;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+313;Heinonen;Otto Pyry Johannes;Heinonen, Otto;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+314;Helminen;Fiona Helmi Maria;Helminen, Fiona;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+315;Hiltunen;Titta Eliisa;Hiltunen, Titta;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+316;Holmberg;Jimi Valtteri;Holmberg, Jimi;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+317;Houttu;Aku Iisakki;Houttu, Aku;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+318;Kaarento;Anni Mirjami;Kaarento, Anni;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+319;Kantonen;Tyyni Alma Orvokki;Kantonen, Tyyni;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+320;Kari;Onerva Ilona;Kari, Onerva;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+321;Kasongo;Jenny Lea Itond;Kasongo, Jenny;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+322;Kauppila;Lauri Toivo Johannes;Kauppila, Lauri;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+323;Kauppinen;Ida Amanda Katariina;Kauppinen, Ida;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+324;Keskiivari;Kim Matias Juhanpoika;Keskiivari, Kim;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+325;Kiander;Essi Karoliina;Kiander, Essi;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+326;Kinanen;Mikael Matti Juhani;Kinanen, Mikael;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+327;Korhonen;Mikko Petteri;Korhonen, Mikko;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+328;Koskijoki;Kreeta Maria;Koskijoki, Kreeta;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+329;Koverola;Sofia Helena Aleksandra;Koverola, Sofia;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+330;Kurkilahti;Sara Varpu;Kurkilahti, Varpu;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+331;Kyllönen;Riku-Petteri;Kyllönen, Riku-Petteri;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+332;Lainema;Max Tuomas Juhani;Lainema, Max;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+333;Lauri;Roosa-Maria Pauliina;Lauri, Roosa-Maria;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+334;Lehtisaari;Justus Timotei;Lehtisaari, Justus;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+335;Lemström;Anna Katinka;Lemström, Anna;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+336;Lindman;Elina Jenny Katariina;Lindman, Elina;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+337;Lindqvist;Joel Markus;Lindqvist, Joel;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+338;Lindström;Maija Liisa Natalia;Lindström, Maija;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+339;Lodewijks;Janne Olavi;Lodewijks, Janne;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+340;Majaniemi;Minna Susanna;Majaniemi, Minna;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+341;Manninen;Arttu Valtteri;Manninen, Arttu;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+342;Maunula;Helena Aliisa;Maunula, Aliisa;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+343;Merikallio;Jussi Oskari;Merikallio, Jussi;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+344;Palomurto;Petrus Tapani;Palomurto, Petrus;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+345;Partanen;Linnéa Mimosa Evelina;Partanen, Linnéa;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+346;Pentikäinen;Viena;Pentikäinen, Viena;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+347;Pirhonen;Lotta-Maaria;Pirhonen, Lotta;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+348;Pulkkinen;Joonas Jussi Antero;Pulkkinen, Joonas;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+349;Rajala;Jonna Emilia;Rajala, Jonna;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+350;Ravattinen;Niko Santeri;Ravattinen, Niko;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+351;Reima;Aapo Hannu Eemeli;Reima, Aapo;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+352;Räikkönen;Jooseppi Juho Jukanpoika;Räikkönen, Jooseppi;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+353;Sirén;Sanni Sofia;Sirén, Sanni;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+354;Ståhlberg;Taika Aurora;Ståhlberg, Aurora;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+355;Suihkonen;Tuomas Veli Tapio;Suihkonen, Tuomas;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+356;Talvila;Joonas Kalervo;Talvila, Joonas;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+357;Tamminen;Jari-Pekka Fredrik;Tamminen, Jari-Pekka;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+358;Tamminen;Juho Antero;Tamminen, Juho;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+359;Tiainen;Pekka Aleksi;Tiainen, Pekka;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+360;Wallgren;Amos Lauri Waldemar;Wallgren, Amos;1;Sitoutumaton Vasemmisto - Obunden Vänster - Independent Left
+361;Kovanen;Teemu Juho Ilmari;Kovanen, Teemu;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+362;Pasanen;Amanda Charlotte;Pasanen, Amanda;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+363;Karvonen;Okko-Pekka Pietari;Karvonen, Okko;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+364;Haavisto;Jami Jaakko Ilmari;Haavisto, Jami;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+365;Tujunen;Aleksi Antti Johannes;Tujunen, Aleksi;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+366;Lipiäinen;Helmi Tellervo;Lipiäinen, Helmi;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+367;Käyhkö;Oona Elsa Jemina;Käyhkö, Oona;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+368;Pylkkö;Alli Margareta;Pylkkö, Alli;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+369;Suhonen;Saku Petteri;Suhonen, Saku;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+370;Mattila;Saku Pasi Mikael;Mattila, Saku;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+371;Miikki;Aino Reetta Valpuri;Miikki, Aino;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+372;Heikkilä;Juho Sebastian;Heikkilä, Juho;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+373;Lagerstam;Kaarle Fredrik;Lagerstam, Fredrik;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+374;Helin;John Julius;Helin, John;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+375;Karhunen;Paula Henriikka;Karhunen, Paula;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+376;Varinowski;Oona Sofia;Varinowski, Oona;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+377;Haaslahti;Ellen Aleksandra;Haaslahti, Ellen;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+378;Kortelainen;Tommi Kristian;Kortelainen, Tommi;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+379;Rouvari;Akseli Pauli-Pekka;Rouvari, Akseli;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+380;Haltia;Liisa Astrid;Haltia, Liisa;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+381;Mäkinen;Theresa;Mäkinen, Theresa;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+382;Linkola;Maija Helena;Linkola, Maija;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+383;Seppänen;Tia Annika;Seppänen, Tipu;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+384;Vinkki;Samuel Oskari;Vinkki, Samuel;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+385;Kopperoinen;Petja Veikko Tapani;Kopperoinen, Petja;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+386;Mickos;Kasper Mikael;Mickos, Kasper;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+387;Ollila;Jere Petteri;Ollila, Jere;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+388;Turunen;Eeva Karoliina;Turunen, Eeva;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+389;Naalisvaara;Sonja Julia;Naalisvaara, Sonja;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+390;Oksanen;Alex Kristian;Oksanen, Alex;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+391;Kalliokoski;Kaneli Pihla;Kalliokoski, Kaneli;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+392;Oksman;Esa Petteri;Oksman, Esa;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+393;Linnossuo;Veli Matti;Linnossuo, Veli;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+394;Segerstam;Ada Aurora Elisabeth;Segerstam, Ada;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+395;Ålander;Veera Verde Victoria;Ålander, Verde;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+396;Alanko;Aukusti;Alanko, Aukusti;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+397;Lindh;Jenny Anette;Lindh, Jenny;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+398;Andersson;Heli Anna Emilia;Andersson, Emilia;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+399;Pirttijärvi;Heta Maria;Pirttijärvi, Heta;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+400;van der Meulen;Eugenie Carolina;van der Meulen, Eugenie;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+401;van Bruggen;Merijn Adriaan;van Bruggen, Merijn Adriaan;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+402;Arminen;Oscar Albin;Arminen, Oscar;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+403;Alanko;Heljä Kanerva;Alanko, Heljä;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+404;Jalonen;Elli-Noora Josefiina;Jalonen, Elli-Noora;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+405;Saukkonen;Tuuli Helinä;Saukkonen, Tuuli;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+406;Laitinen;Silja Kirsikka;Laitinen, Silja;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+407;Äyrämöinen;Olivia Nova;Äyrämöinen, Olivia;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+408;Leporanta;Miro Pekka;Leporanta, Miro;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+409;Leikoski;Lotta Beda Amanda;Leikoski, Lotta;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+410;Lassila;Aaro Juho Matias;Lassila, Aaro;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+411;Jalo;Elina Anna Maria;Jalo, Elina;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+412;Pokela;Anni Sanna Sofia;Pokela, Anni;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+413;Voutilainen;Sonja Hanna Juulia;Voutilainen, Sonja;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+414;Presnukhina;Anna;Presnukhina, Anna;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+415;Sylgren;Inka Sofia;Sylgren, Inka;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+416;Kivipuro;Matias Ville Olavi;Kivipuro, Matias;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+417;Väisänen;Jukka Tapani;Väisänen, Jukka;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+418;Rahikainen;Elina Johanna;Rahikainen, Elina;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+419;Alén;Natalie;Alén, Natalie;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+420;Stockmann;Nico;Stockmann, Nico;5;HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens
+421;Aarto;Lotta Elisabet;Aarto, Lotta;18;Kokoomuksen opiskelijat
+422;Bäckström;Teresa Tiia Maria;Bäckström, Teresa;18;Kokoomuksen opiskelijat
+423;Ceesay;Mustapha;Ceesay, Mustapha;18;Kokoomuksen opiskelijat
+424;Enbuske;Anna Maria;Enbuske, Anna;18;Kokoomuksen opiskelijat
+425;Euro;Alvar;Euro, Alvar;18;Kokoomuksen opiskelijat
+426;Granlund;Jenni Eveliina;Granlund, Jenni;18;Kokoomuksen opiskelijat
+427;Hadi;Mohammed S.;Hadi, Mohammed S.;18;Kokoomuksen opiskelijat
+428;Heinonen;Oskari Vilhelm;Heinonen, Oskari;18;Kokoomuksen opiskelijat
+429;Hietala;Klaus Sakari;Hietala, Klaus;18;Kokoomuksen opiskelijat
+430;Jaatinen;Tatu Markus;Jaatinen, Tatu;18;Kokoomuksen opiskelijat
+431;Joensuu;Joakim Olavi;Joensuu, Joakim;18;Kokoomuksen opiskelijat
+432;Junnila;Emilia Kukka-Maaria;Junnila, Emilia;18;Kokoomuksen opiskelijat
+433;Kanervo;Mikko Petteri;Kanervo, Mikko;18;Kokoomuksen opiskelijat
+434;Karhunen;Mikko Olavi;Karhunen, Mikko;18;Kokoomuksen opiskelijat
+435;Karjalainen;Topias Arvo;Karjalainen, Topias;18;Kokoomuksen opiskelijat
+436;Karppinen;Olli Jaakko Ilmari;Karppinen, Olli;18;Kokoomuksen opiskelijat
+437;Kauppinen;Ville-Aleksi Ilmari;Kauppinen, Ville;18;Kokoomuksen opiskelijat
+438;Keski-Luoma;Miika Sebastian;Keski-Luoma, Miika;18;Kokoomuksen opiskelijat
+439;Kiiskinen;Maria Isabella;Kiiskinen, Maria;18;Kokoomuksen opiskelijat
+440;Kivenne;Mikko Tuomas;Kivenne, Mikko;18;Kokoomuksen opiskelijat
+441;Knaapi;Emilia Josefiina;Knaapi, Emilia;18;Kokoomuksen opiskelijat
+442;Kontkin;Henri Kristian Alesi;Kontkin, Henri;18;Kokoomuksen opiskelijat
+443;Korpinen;Topi Olavi;Korpinen, Topi;18;Kokoomuksen opiskelijat
+444;Koskinen;Mikael Juha Ilmari;Koskinen, Mikael;18;Kokoomuksen opiskelijat
+445;Kujala;Vilma Kaarina;Kujala, Vilma;18;Kokoomuksen opiskelijat
+446;Kupias;Kaisa Marianna;Kupias, Marianna;18;Kokoomuksen opiskelijat
+447;Kuva;Salla Enni Kristiina;Kuva, Salla;18;Kokoomuksen opiskelijat
+448;Kähkönen;Paavo Oskari;Kähkönen, Paavo;18;Kokoomuksen opiskelijat
+449;Laakkonen;Olli Erkki Verneri;Laakkonen, Verneri;18;Kokoomuksen opiskelijat
+450;Laasonen;Hanna-Liisa Katariina;Laasonen, Hanna-Liisa;18;Kokoomuksen opiskelijat
+451;Laitila;Juho Jasperi Rikhard;Laitila, Juho;18;Kokoomuksen opiskelijat
+452;Lehtimäki;Anniina Iida Elina;Lehtimäki, Anniina;18;Kokoomuksen opiskelijat
+453;Leinonen;Jenna Sofia;Leinonen, Sofia;18;Kokoomuksen opiskelijat
+454;Lempinen;Kiia Kristiina;Lempinen, Kiia;18;Kokoomuksen opiskelijat
+455;Meri;Otto Aleksi;Meri, Otto;18;Kokoomuksen opiskelijat
+456;Niemi;Vertti Jesperi;Niemi, Vertti;18;Kokoomuksen opiskelijat
+457;Niva;Iida Kristiina;Niva, Iida;18;Kokoomuksen opiskelijat
+458;Nordman;Sina Kaisa Maarit;Nordman, Sina;18;Kokoomuksen opiskelijat
+459;Nupponen;Konsta Simo Severi;Nupponen, Konsta;18;Kokoomuksen opiskelijat
+460;Nurmela;Jeremias Alfred Ilmari;Nurmela, Jeremias;18;Kokoomuksen opiskelijat
+461;Oleander-Turja;Jaakko Santeri;Oleander-Turja, Jaakko;18;Kokoomuksen opiskelijat
+462;Pajula;Matias Risto Mikael;Pajula, Matias;18;Kokoomuksen opiskelijat
+463;Pakarinen;Toni;Pakarinen, Toni;18;Kokoomuksen opiskelijat
+464;Pauna;Ella Julia Alexandra;Pauna, Ella;18;Kokoomuksen opiskelijat
+465;Pulliainen;Joonas Vihtori;Pulliainen, Joonas;18;Kokoomuksen opiskelijat
+466;Salomaa;Olli Sakari Johannes;Salomaa, Olli;18;Kokoomuksen opiskelijat
+467;Sillantaka;Nina Emilia;Sillantaka, Nina;18;Kokoomuksen opiskelijat
+468;Smolander;Miro Valdemar;Smolander, Miro;18;Kokoomuksen opiskelijat
+469;Tammekann;Samuel Tuomo Mattias;Tammekann, Samuel;18;Kokoomuksen opiskelijat
+470;Tarkiainen;Marjo Elisa;Tarkiainen, Elisa;18;Kokoomuksen opiskelijat
+471;Torikka;Peter Aleksi;Torikka, Peter;18;Kokoomuksen opiskelijat
+472;Tuovila;Siiri Serafina;Tuovila, Siiri;18;Kokoomuksen opiskelijat
+473;Tupamäki;Binga Maria;Tupamäki, Binga;18;Kokoomuksen opiskelijat
+474;Tyyskä;Josefiina Adelia;Tyyskä, Josefiina;18;Kokoomuksen opiskelijat
+475;Vehkavaara;Aino Maria;Vehkavaara, Aino;18;Kokoomuksen opiskelijat
+476;Venäläinen;Emmi Veera Eveliina;Venäläinen, Emmi;18;Kokoomuksen opiskelijat
+477;Vesinurm;Märt;Vesinurm, Märt;18;Kokoomuksen opiskelijat
+478;Vuornos;Henrik Jeremias;Vuornos, Henrik;18;Kokoomuksen opiskelijat
+479;Vähäuski;Heidi Riia Annika;Vähäuski, Heidi;18;Kokoomuksen opiskelijat
+480;Väli-Torala;Venla Pauliina;Väli-Torala, Venla;18;Kokoomuksen opiskelijat
+481;Alaraappana;Anna Sofia;Alaraappana, Anna;11;Keskeiset
+482;Brusila;Eerik Maunu Anttoni;Brusila, Eerik;11;Keskeiset
+483;Flyktman;Aleksi Elis Ilmari;Flyktman, Aleksi;11;Keskeiset
+484;Linnainmaa;Eeva Kristiina;Linnainmaa, Eeva;11;Keskeiset
+485;Lukkarila;Ville Tapio;Lukkarila, Ville;11;Keskeiset
+486;Luttinen;Venla Maria;Luttinen, Venla;11;Keskeiset
+487;Niiranen;Minna Maria;Niiranen, Minna;11;Keskeiset
+488;Paavilainen;Joonas Kristian;Paavilainen, Joonas;11;Keskeiset
+489;Sandroos;Esa Aleksi Valhder;Sandroos, Aleksi;11;Keskeiset
+490;Tuovinen;Väinö Juhani;Tuovinen, Väinö;11;Keskeiset
+491;Verkkosaari;Heidi Eeva Kaarina;Verkkosaari, Heidi;11;Keskeiset
