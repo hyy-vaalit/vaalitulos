@@ -1,0 +1,932 @@
+--PAIKKOJA
+# Edustajiston paikkam„„r„.
+60
+--ARVONTATAPA
+tamy
+--RENKAAT
+# renkaan numero, nimi, tunnus
+1, Osakuntien suuri vaalirengas, OSAK
+2, Porvarillinen vaalirengas, Porvarit
+3, Opiskelijademarit, Demarit
+4, HYY:n vihre„t - De Gr”na vid HUS, Vihre„t
+5, Ainej„rjest”jen Suuri Vaalirengas, ASV
+6, Svenska nationer och „mnesf”reningar, SNF
+7, Pyk„l„-LKS, Pyk„l„-LKS
+8, Peduca, Peduca
+9, Kulttuurinyst„v„t, KYST
+10, Keskiryhmien vaalirengas, Keskusta
+11, Maatalous-mets„ylioppilaiden sitoutumaton vaaliliitto, MMYSLI
+12, Akateemiset hyv„ oluen yst„v„t, AHOY
+13, Kemistit, Kemistit
+14, Vasemmiston vaalirengas, Vas
+--LIITOT
+# liiton numero, renkaan numero, nimi, lyhenne
+1, 1, Pohjalaiset osakunnat, Pohj.os.
+2, 1, HO-KSO, HO-KSO
+3, 1, Liisankadun osakunnat, LiO
+4, 1, ESO-VSO, ESO-VSO
+5, 1, SatO-SavO, SatO-SavO
+6, 2, Kansalliset ylioppilaat 1, KansY1
+7, 2, Kansalliset ylioppilaat 2, KansY2
+8, 2, Kansalliset ylioppilaat 3, KansY3
+9, 2, Ylioppilaskunnan sitoutumattomat porvarit, YSP
+10, 2, Akateeminen liberaaliyhdistys, ALY
+11, 3, Opiskelijademarit, OSY
+12, 4, HYY:n vihre„t - De Dr”na vid HUS 1, Vihr1
+13, 4, HYY:n vihre„t - De Gr”na vid HUS 2, Vihr2
+14, 5, Limes, Limes
+15, 5, Historian opiskelijat - Historiestuderande, Hist.
+16, 5, Jumaluusopin opiskelijat, Jumal.op.
+17, 5, Humanistit, Hum.
+18, 5, Valtsika, Valt.
+19, 5, Demokraattiset valtiotieteilij„t, DeVa
+20, 6, Svenska nationer och „mnesf”reningar, SNF
+21, 7, LKS, LKS
+22, 7, Pyk„l„, Pyk„l„
+23, 8, Peduca, Peduca
+24, 9, Kulttuurin yst„v„t, KYST
+25, 10, Keskustaopiskelijoiden vaaliliitto, Kesk.
+26, 10, Kristillisdemokraatit, Kdem
+27, 11, Maatalous-mets„ylioppilaiden sit. vaaliliitto, MMYSLI
+28, 12, Akateemiset hyv„n oluen yst„v„t, AHOY
+29, 13, Kemistit, Kemistit
+30, 14, Sitoutumaton vasemmisto, Sit.vas.
+31, 14, Vasemmisto-opiskelijat, VASO
+--EHDOKKAAT
+# ehdokkaan numero, liiton numero, nimi
+2, 1, Aittoniemi Jussi, 5
+3, 1, Hakala Riikka, 3
+4, 1, Hiltunen Heikki, 21
+5, 1, Hyypp„ Aki, 8
+6, 1, Itkonen Leena, 5
+7, 1, Kangas Marjut, 3
+8, 1, Kankaanp„„ Merja, 5
+9, 1, Karjalainen Heli, 1
+10, 1, Ketonen Niina, 1
+11, 1, Kivipelto Jaana, 1
+12, 1, Laturi Panu, 6
+13, 1, Maunula Miikka, 5
+14, 1, M„rij„rvi Tiina, 1
+15, 1, Palmujoki Jaakko, 1
+16, 1, Pennala Esa, 3
+17, 1, Peura Pia, 11
+18, 1, Piirto Heta, 6
+19, 1, Puskala Heikki, 2
+20, 1, Puttonen Riikka, 19
+21, 1, Rannisto Milja, 1
+22, 1, Ruokonen Annamari, 2
+23, 1, R”nn Jukka T., 6
+24, 1, Siiril„ Pekka, 6
+25, 1, Tervonen "Nasse", 9
+26, 1, Vierikko "Minnis", 15
+27, 1, Vuori Timo A., 2
+28, 1, Annala Saija, 7
+29, 1, Halmetoja Heikki, 8
+30, 1, Huotari Harri, 1
+31, 1, Huru Marika, 3
+32, 1, Iivonen Esa, 26
+33, 1, Karinen Jari, 2
+34, 1, Kieksi Kimmo, 5
+35, 1, Kinnunen Kristiina, 39
+36, 1, Korhonen Paula, 4
+37, 1, Kupiainen Aki, 2
+38, 1, K„rk„s Kaisa, 9
+39, 1, Lauri Antti, 3
+40, 1, Leinonen Jouko, 3
+41, 1, Meht„l„ Jaana, 10
+42, 1, Niemel„ Tomi, 2
+43, 1, Niskanen Seppo, 2
+44, 1, Pesonen Petri, 2
+45, 1, Perttula Salla, 4
+46, 1, Pitk„nen Katariina "Piiva", 26
+47, 1, P„„kk”nen Saara, 6
+48, 1, Sepp„nen Heikki, 1
+49, 1, Simojoki Samuli, 9
+50, 1, S”derstr”m Anne-Mari "S”de", 2
+51, 1, Tervo Petri, 2
+52, 1, Uosukainen Elina, 2
+53, 1, Viuhkola Mervi, 2
+54, 1, V„is„nen "Tylle", 6
+55, 1, Yli-Oikarainen Pia-Maria, 6
+56, 2, Heino Heikki, 5
+57, 2, J„rvinen P„ivi, 9
+58, 2, Kalmi Panu, 8
+59, 2, Kivi Ulla, 16
+60, 2, Laine Esa, 7
+61, 2, Lehtamo "Mato", 7
+62, 2, Leivo Mika, 9
+63, 2, Luukkonen Kimmo, 2
+64, 2, Lyijynen Jukka, 10
+65, 2, Majonen Pia, 20
+66, 2, Mets„kyl„ Mikko, 20
+67, 2, Miettinen Anssi, 3
+68, 2, Mykk„nen Mikko "Mykkis", 5
+69, 2, Nieminen Jussi "Nipa", 15
+70, 2, Paavola Mikko, 15
+71, 2, Paulam„ki Monica, 8
+72, 2, Rakkola Jaana, 8
+73, 2, Rimminen Lulu, 9
+74, 2, Surakka Minna, 15
+75, 2, Tammisalo Risto, 24
+76, 2, V„kev„inen Satu, 3
+77, 2, Alaj„rvi Erika, 0
+78, 2, Hannonen Minttu, 8
+79, 2, Hilpinen Jukka, 7
+80, 2, Isosomppi Pekka, 17
+81, 2, Juurinen Sanna, 21
+82, 2, Kankaanp„„ Markus, 0
+83, 2, Kokko Sinikka, 3
+84, 2, Kosunen Mikko, 1
+85, 2, Kotkaj„rvi Jorma J., 2
+86, 2, Nurminen Antti, 4
+87, 2, Raiski Maija-Liisa, 5
+88, 2, Sepp„nen Jukka, 2
+89, 2, Soinne Hanna, 3
+90, 3, Ahokas Kari "Kartsa", 5
+91, 3, Ferrand Joel, 27
+92, 3, Heinaro Tatu, 5
+93, 3, Hietala Sanna, 16
+94, 3, Huttunen Timo, 2
+95, 3, Jokiniemi Joonas, 4
+96, 3, Jolkkonen Jari, 17
+97, 3, Kinnunen Pekka, 5
+98, 3, Kuuva Petteri, 7
+99, 3, Matilainen Tiina, 17
+100, 3, Per„l„ Anu, 4
+101, 3, Pulli Sari, 3
+102, 3, Savolainen Petri "Pete", 5
+103, 3, Solanko Laura, 8
+104, 3, Tolvanen Ville, 6
+105, 3, Tuovinen Anna, 6
+106, 3, Alanko Tessa, 4
+107, 3, Hamari Marjo, 5
+108, 3, Hamari Pirjo, 7
+109, 3, Hannula Mirja, 48
+110, 3, H„nninen Hannamari, 7
+111, 3, H„rm„ Mika, 4
+112, 3, Kantola Heikki, 3
+113, 3, Ker„nen Pauliina, 9
+114, 3, Kettunen Eeva-Leena, 6
+115, 3, Koski Mika, 2
+116, 3, Kuukka Riina, 3
+117, 3, Laaksonen Marika, 13
+118, 3, Laitinen Eevamaija, 92
+119, 3, Leskinen Hanna, 99
+120, 3, Lukkari Tero, 5
+121, 3, Orola Niilo, 1
+122, 3, Typp” Annamari, 8
+123, 3, Varonen Petri, 4
+124, 3, Vitikainen Vesa, 5
+125, 3, Finni Perttu, 6
+126, 3, Himanen Pasi, 6
+127, 3, H„m„l„inen Laura, 1
+128, 3, Junnikkala Vesa, 47
+129, 3, Kuivalainen Kaisa, 6
+130, 3, K„h” Karoliina, 1
+131, 3, Lauha Riikka, 1
+132, 3, Lepist” Anssi, 3
+133, 3, Linkola Salla, 5
+134, 3, Mattila Ulla, 8
+135, 3, Myllynen Maija, 2
+136, 3, N„rhinsalo Annu, 1
+137, 3, Parjanen Perttu, 6
+138, 3, Salvola Tanja, 6
+139, 3, Siponen Terhi, 1
+140, 3, Vaisto Heikki, 12
+141, 3, Talka Katri, 3
+142, 4, Aarnio Johanna, 8
+143, 4, Aho Milla, 1
+144, 4, Ahonen Sirpa, 2
+145, 4, Asikainen Tanja, 12
+146, 4, Bonsdorff Juhani, 3
+147, 4, Granberg Minna, 4
+148, 4, Heinonen Johanna, 14
+149, 4, Hemminki Akseli, 13
+150, 4, Hult Heini, 28
+151, 4, Kaasalainen Piia, 9
+152, 4, Kaila Aurora, 3
+153, 4, Kaila Anja, 6
+154, 4, Kajanne Ville, 4
+155, 4, Kaskikari Kirsti, 9
+156, 4, Kaskikari Riitta, 6
+157, 4, Kotilainen Esa, 5
+158, 4, Lappalainen Matti, 5
+159, 4, Lepp„nen Antti, 5
+160, 4, Liekso Hannu, 24
+161, 4, Linkola Anni, 23
+162, 4, Maila Satu, 5
+163, 4, Miekkavaara Arto, 0
+164, 4, Natunen Jari, 18
+165, 4, Nordlund Kim, 3
+166, 4, N„„t„nen Marko, 3
+167, 4, Ojares Rami, 8
+168, 4, Oksanen Ilona, 7
+169, 4, Paavilainen Ari, 4
+170, 4, Palminkoski Leni, 2
+171, 4, Parviainen Juuso, 16
+172, 4, Rauramo Juhana, 3
+173, 4, Riikonen Antti Aleksi, 5
+174, 4, Rintala Virve, 1
+175, 4, Ruism„ki Maiju, 2
+176, 4, Saarinen Pia, 3
+177, 4, Sahlberg Heidi, 4
+178, 4, Sahlberg Mauri "MOS", 9
+179, 4, Salonen Jan, 5
+180, 4, Sauri Eeva, 3
+181, 4, Set„l„ Vienna, 19
+182, 4, Siniranta Niina, 0
+183, 4, Skwarek Jaroslaw, 2
+184, 4, Sundb„ck Irene, 34
+185, 4, Suonsyrj„ Timo, 5
+186, 4, Tuovinen Antti-Pekka, 3
+187, 4, Tommila Miika, 3
+188, 4, Uotila Johanna, 6
+189, 4, Virtanen-Pietil„inen Virpi, 4
+190, 4, V„nttinen Taija, 6
+191, 4, Erik„inen Timo "Pikku-Timppa", 21
+192, 4, Jokinen Maria, 12
+193, 4, Laitakoski Hanna, 7
+194, 4, Malmberg Petri, 0
+195, 4, Pulkkinen Sanna, 1
+196, 4, Suomi Pasi, 6
+197, 4, Troberg Martti, 8
+198, 4, Vesisenaho Terhi, 4
+199, 5, Burjam Noora, 11
+200, 5, Haapanen Minna, 0
+201, 5, Hannula Anna, 16
+202, 5, Ilves Kristiina, 4
+203, 5, Joutsi Lotta, 6
+204, 5, J„ntti Sami, 5
+205, 5, Kalliokoski Johanna, 6
+206, 5, Leino Iiro Ilmari, 1
+207, 5, Lev„niemi Terhi, 3
+208, 5, Lindberg Annika, 2
+209, 5, Liukkonen Tommi, 3
+210, 5, Miettinen Katri, 2
+211, 5, M„kinen Tommi, 5
+212, 5, Nousmaa Esko, 2
+213, 5, Rakkolainen Ari, 5
+214, 5, Ridell Marika, 7
+215, 5, Salminen Tomi, 6
+216, 5, Salo Satu, 26
+217, 5, Sillvan Nina, 8
+218, 5, Silvola "Kata", 4
+219, 5, Silvonen Sarianna, 2
+220, 5, Syrj„ Vesa, 43
+221, 5, Tarjamo Hanna-Maria, 3
+222, 5, Uusikulku Riikka, 5
+223, 5, Yl”nen Olli, 2
+224, 5, Alavaikko Mika, 12
+225, 5, Borg Patrik, 8
+226, 5, Douba Ahmad, 5
+227, 5, Duwairi Ibrahim, 9
+228, 5, Erola Jan, 29
+229, 5, Hallikainen Mari, 7
+230, 5, Hiekkanen Harri, 2
+231, 5, Junkkari Tuuli, 10
+232, 5, Kokkonen Marjaana, 6
+233, 5, Korkiakoski Katariina, 8
+234, 5, K„h„r„ Sami, 7
+235, 5, K„nninen Jari, 6
+236, 5, Laamanen Mika, 4
+237, 5, Lumiaro Ulla, 4
+238, 5, Manninen Jani, 2
+239, 5, Miettinen Karri, 1
+240, 5, Miettinen Kirsi, 2
+241, 5, M„kinen Mika, 18
+242, 5, M„kinen Sami, 6
+243, 5, M„ntt„ri Juha, 2
+244, 5, Pennanen Paula, 7
+245, 5, Piippo Anu, 8
+246, 5, Pulliainen Lea, 9
+247, 5, Raitala Eija, 19
+248, 5, Rautio Anna, 6
+249, 5, Schultz Saku, 2
+250, 5, Sirvio Tuulia, 6
+251, 5, Syrj„l„ Timo, 6
+252, 5, Turunen Olli, 2
+253, 5, Zitting Marianne, 3
+254, 6, Harjunp„„ Susanna, 15
+255, 6, Ala-Ruona Jari, 3
+256, 6, Bonsdorff Maria von, 6
+257, 6, Borgstr”m Joachim, 2
+258, 6, Eriksson Nina, 0
+259, 6, Forssell Christina, 7
+260, 6, Jaakkola Paula, 2
+261, 6, Junnila Aimo, 3
+262, 6, Kaarlela Anu, 4
+263, 6, Lindholm Anu, 5
+264, 6, Linja Jyrki, 1
+265, 6, Peltonen Mia, 0
+266, 6, Saarelainen Mari, 3
+267, 6, Saim‚n Hanna, 15
+268, 6, Sinisalo Pekka M., 12
+269, 6, Sommardahl Hanna, 3
+270, 6, Tervaportti Marko, 31
+271, 6, Tuisku Heikki, 0
+272, 6, Tykk„ Kaira, 2
+273, 6, Vilkuna Outi, 2
+274, 6, ™sterman Vilja, 5
+275, 6, Avikainen Sari, 8
+276, 6, Kaipio "Junnu", 13
+277, 6, Melaj„rvi Nina, 2
+278, 6, M„kel„-Lammi Kati, 7
+279, 6, M„ntyl„ Riikka, 29
+280, 6, Noponen Jukka, 0
+281, 6, Palatsi Matti, 5
+282, 6, Santanen Olli, 28
+283, 6, Sarkomaa Sari, 4
+284, 6, Aalto Janne, 2
+285, 6, Huisjen David Jr., 9
+286, 6, Karhum„ki Heli, 6
+287, 6, Koponen Ilkka, 4
+288, 6, Koski Juha, 1
+289, 6, Lammi Jari, 1
+290, 6, Markkanen Ari, 6
+291, 6, Pihlajam„ki Ilkka, 14
+292, 6, Rintam„ki Juha, 7
+293, 6, Tilus Johanna, 1
+294, 6, Aherva Sami, 2
+295, 6, Ahvenainen Jouko, 0
+296, 6, Dakovic Velibor, 6
+297, 6, Erolin Ebba, 7
+298, 6, Forsberg Martti "Mara", 6
+299, 6, Forsg†rd Jan-Peter, 2
+300, 6, Hautala Mikko, 2
+301, 6, Huhtanen Tomi, 17
+302, 6, Huikko Ilkka, 4
+303, 6, Huttunen Kristiina, 3
+304, 6, Inkeri Raakel, 5
+305, 6, Jaatinen Timo, 28
+306, 6, Jutila Ville, 12
+307, 6, J„ntti Sami 0.Y., 2
+308, 6, Kaiju Matti, 6
+309, 6, Karttunen Marko, 2
+310, 6, Kiviniemi Antero, 6
+311, 6, Koukku Minna, 2
+312, 7, Koulumies Terhi, 17
+313, 7, Kukkola Tomi, 4
+314, 7, Kuusi Emma, 8
+315, 7, Kuusiholma Taro, 1
+316, 7, Lepel Klaus von, 5
+317, 7, Lindgren Katja, 4
+318, 7, Luotonen Pia-Stina, 5
+319, 7, Lyytik„inen "Anni", 13
+320, 7, L”nnqvist "Mara", 11
+321, 7, Mets„ Kimmo, 3
+322, 7, Mets„ Maija, 17
+323, 7, Mets„rinta Tero, 3
+324, 7, Munukka Timo, 0
+325, 7, Mustonen Juha, 19
+326, 7, Nenonen Tuomo, 3
+327, 7, Nikulainen Sirje, 4
+328, 7, Niskanen Rebekka, 8
+329, 7, Poutvaara Panu, 1
+330, 7, Puuper„ Jaakko, 7
+331, 7, Puustinen Liina, 0
+332, 7, Pyh„lt” Tero, 4
+333, 7, Riihim„ki Elisa, 1
+334, 7, Siikaniva Tommi, 5
+335, 7, Silvennoinen Annukka, 3
+336, 7, Suhonen Johanna, 3
+337, 7, Svensson Outi, 2
+338, 7, Teiro Sanna, 2
+339, 7, Tontti Jarkko, 1
+340, 7, Tuominen Jarkko, 4
+341, 7, Ver„v„inen "Tiina", 4
+342, 7, Vuori Jukka-Pekka, 32
+343, 7, Wil‚n Juha, 2
+344, 7, Ala-Haavisto Hannu, 3
+345, 7, Anttilainen Matti, 6
+346, 7, Hannuksela Mari, 12
+347, 7, Impola Kaarlo, 2
+348, 7, Korte Kaisa, 2
+349, 7, Koski Mikko, 3
+350, 7, Lehtonen Elina, 2
+351, 7, Leiponen Hanna, 14
+352, 7, M„kimattila Mikko, 6
+353, 7, Pihanen Juha, 3
+354, 7, P„nk„l„ Mika, 7
+355, 7, Rantanen Anne, 8
+356, 7, Rissanen Mikko, 22
+357, 7, Sihvo Katariina "Riinu", 4
+358, 7, Sihvola Ari, 2
+359, 7, Stenbacka Juha, 12
+360, 7, Tuumi Jussi, 2
+361, 7, Ussa Elina, 23
+362, 7, Alaviitala Minna, 1
+363, 7, Anyamele Jnr., 22
+364, 7, Haanper„ Minna, 7
+365, 7, Laisi Tiina, 4
+366, 7, Lepp„nen Mikko, 4
+367, 7, Ogor "Joe-The-Joe", 10
+368, 7, Rantakari Pekka, 7
+369, 7, Valo Susanna, 1
+370, 7, Akaan-Penttil„ Elina, 11
+371, 7, Hirvonen Maria Elisa, 5
+372, 8, Hyttinen Hannele, 2
+373, 8, H„m„l„inen Mari, 4
+374, 8, H„nninen Rami, 4
+375, 8, H”gstr”m Ann-Sofie, 3
+376, 8, H”ltt„ Ari, 7
+377, 8, Jaari Peter D., 8
+378, 8, Kangas Marjukka "Maiju", 2
+379, 8, Karttunen Juha, 2
+380, 8, Kivel„ Kimmo, 8
+381, 8, Kuula Marja, 10
+382, 8, Lakovaara Kaisa, 9
+383, 8, Lehto Pialiina, 2
+384, 8, Lempinen Katriina, 5
+385, 8, Mustonen Tommi, 3
+386, 8, Nurmi "Wille", 7
+387, 8, Parkkola Hannu, 3
+388, 8, Saarela Jani, 1
+389, 8, Salmela Nina, 4
+390, 8, Sario Juha, 4
+391, 8, Sasi Jaakko, 5
+392, 8, Syyril„ Jarkko, 4
+393, 8, S„k„j„rvi Marianne, 5
+394, 8, Tapanila Tea, 1
+395, 8, Tavast Mika, 29
+396, 8, Wallenius Sanna, 0
+397, 8, ™sterberg Mari, 5
+398, 8, Alak”rkk” Markku, 2
+399, 8, Autero Jarkko, 3
+400, 8, Brotherus Robert, 5
+401, 8, B„ckstr”m Jan, 7
+402, 8, Eril„ Marika, 1
+403, 8, Heinonen Pia, 5
+404, 8, H„til„ Miika, 0
+405, 8, Isom„ki Rene, 2
+406, 8, Jokinen Marjukka, 2
+407, 8, Junkkari Topi K., 6
+408, 8, Karumo Pete, 13
+409, 8, Kena Kimmo, 9
+410, 8, Kolehmainen Anna, 6
+411, 8, Konttinen Tarja, 2
+412, 8, Kortesalo Jan, 2
+413, 8, Koskinen Jani, 5
+414, 8, Kuhalampi Miska, 6
+415, 8, Niini Antti, 3
+416, 8, Olli Timo, 13
+417, 8, Pulli Harri, 5
+418, 8, Ranta Tommi, 1
+419, 8, Reynders Joonas, 1
+420, 8, Salminen Harri, 7
+421, 8, Saviranta Johanna, 50
+422, 8, Savisalo Anssi, 10
+423, 8, Sepp„l„ Miina, 11
+424, 8, Siimes Outi, 2
+425, 8, Suonio Pekka, 4
+426, 8, Taiminen Pasi, 2
+427, 8, Toivonen Lauri, 0
+428, 8, T„htinen Timo, 6
+429, 8, Wallasvaara Mervi, 5
+430, 9, Lehtonen "Nico", 35
+431, 9, Neuhaus Patrick, 52
+432, 9, Pakkala Ilkka, 5
+433, 9, Saukko Anna, 22
+434, 9, Forsstr”m "Cia", 0
+435, 9, Julin Marko, 1
+436, 9, Valve Tom, 9
+437, 9, Jaatinen Jussi, 4
+438, 9, Koistinen Mikko, 12
+439, 9, Lehmann Ren‚, 7
+440, 9, Nirvi Markku, 7
+441, 9, Nirvi Riikka, 6
+442, 9, Arinen Petteri, 5
+443, 9, Berg Henri, 1
+444, 9, Hakonen Janne, 3
+445, 9, Halonen Markus, 1
+446, 9, Hellemaa Antero, 3
+447, 9, Hiilamo Hannu, 1
+448, 9, Hyryl„inen Sami, 10
+449, 9, Jaatinen Anu, 3
+450, 9, Jacobsson Tom, 21
+451, 9, Kataja Heini, 3
+452, 9, Niemi Hanna, 0
+453, 9, Perko Minna, 5
+454, 9, Rannikko Heikki "Hegu", 6
+455, 9, Rasi Salla, 7
+456, 9, Rauramo Markus, 14
+457, 9, Ruutu Liisa, 9
+458, 9, Saarinen Ilkka, 3
+459, 9, Tanhuanp„„ Harri, 23
+460, 9, Tynnil„ Jani, 1
+461, 9, Viheri„vaara Jarkko, 9
+462, 9, Vuori Mika, 3
+463, 9, Ylipekkala Heikki, 0
+464, 9, Huhtam„ki Satu, 46
+465, 9, Routti Nina, 7
+466, 9, Selkee Henrikki, 18
+467, 9, Syv„ranta Katri, 7
+468, 9, Gates "Fred", 23
+469, 9, Humppila Petra, 6
+470, 10, Aaltonen Juri, 9
+471, 10, Alho J-P, 7
+472, 10, Aura Saku, 19
+473, 10, Christiansen Toni, 6
+474, 10, Hietanen Tommi, 2
+475, 10, Nikula Tuomas "Stuba", 8
+476, 10, Weckroth Tero, 46
+477, 11, Autio Johanna, 19
+478, 11, Gerkman "Micke", 2
+479, 11, Haatainen Tuula, 22
+480, 11, Hakkarainen Mikko T.A., 3
+481, 11, Hentunen Mika, 3
+482, 11, Jungner Mikael, 20
+483, 11, Kinnunen "Krista", 15
+484, 11, Kivipensas Pauli "Wider", 4
+485, 11, Koivusalo Salla, 11
+486, 11, Koponen Heikki, 18
+487, 11, Liikkanen Harri, 7
+488, 11, Luomi Jyrki, 0
+489, 11, Meril„inen Aleksi, 16
+490, 11, M„kinen Jussi, 2
+491, 11, Oilinki Ville, 7
+492, 11, Pajam„ki "Osku", 8
+493, 11, Raitis Moina, 4
+494, 11, Riikonen Mikko, 0
+495, 11, Rinkinen Anu, 4
+496, 11, Salminen Jooel, 4
+497, 11, Shemeikka Tero, 5
+498, 11, Yletyinen Kari-Pekka, 7
+499, 11, V„is„nen Pasi "Mahtisaari", 12
+500, 12, Aalto Terhi, 46
+501, 12, Baer "Tinka", 40
+502, 12, Bister Melina, 39
+503, 12, Hackman "Ali Ustad", 13
+504, 12, Hakkarainen Minna, 10
+505, 12, Havukainen "Sosku", 15
+506, 12, Heikkinen Teppo, 52
+507, 12, Heinonsalo Jussi, 17
+508, 12, Hellakoski Tuija, 19
+509, 12, Hillbom Tanja, 16
+510, 12, Hiltunen Marjukka, 45
+511, 12, Hyrskylahti Sami "Hyrsky", 20
+512, 12, Janhunen Marko, 20
+513, 12, Johansson Hanna "Beige", 18
+514, 12, Kiiskinen Satu, 32
+515, 12, Ingervo Heikki, 21
+516, 12, J„rvel„ Timo, 7
+517, 12, Kalliom„ki Aki, 8
+518, 12, Kanerva Inka, 24
+519, 12, Kassinen Tuomo, 20
+520, 12, Kinnunen Matti, 17
+521, 12, K„„ri„inen Antti, 26
+522, 12, Latosuo Eeva, 25
+523, 12, Laukkanen Mikko, 27
+524, 12, Lehtinen Aki, 13
+525, 12, Lemstr”m Ossi, 10
+526, 12, Lettenmeier Michael, 25
+527, 12, Liimatainen Jussi, 32
+528, 12, Lukka Tuomas, 6
+529, 12, Luukko Mika, 10
+530, 12, Mannermaa Rauna, 33
+531, 12, Maskulin Nina, 17
+532, 12, Mattila P„ivi, 34
+533, 13, Mustonen Veera, 58
+534, 13, Niikkonen Tiina, 18
+535, 13, Nissinen Jouni, 26
+536, 13, Paartola "Titta", 15
+537, 13, Parkatti Jarre, 18
+538, 13, Pasanen Pirjo, 18
+539, 13, Pehko Sonja, 58
+540, 13, Peltola Johanna, 24
+541, 13, Perukangas Marco, 5
+542, 13, Rantala Kati, 8
+543, 13, Rantanen Anna, 12
+544, 13, Roos Sari, 53
+545, 13, Ruoppila Sampo, 9
+546, 13, Ruuskanen Timo, 21
+547, 13, Saalismaa Nina, 10
+548, 13, Selin Tove, 20
+549, 13, Siirtomaa Riitta, 8
+550, 13, Sivunen Johanna, 9
+551, 13, Sj”blom Leena, 30
+552, 13, Stambej Ville, 27
+553, 13, Streng Joonia, 16
+554, 13, Tolvanen Mila, 23
+555, 13, Vesikansa Sanna, 33
+556, 13, Viinikainen Tytti, 62
+557, 13, Virrankoski Lauri, 11
+558, 13, Vogt Ellen, 11
+559, 13, Vogt Henri, 32
+560, 13, Woitsch Erwin, 7
+561, 13, Yl„-Kotola Mauri, 14
+562, 14, Hyv„tti Jaakko, 22
+563, 14, H„m„l„inen TJ, 39
+564, 14, Kaakinen Marko, 5
+565, 14, Kangasperko Ilkka, 5
+566, 14, Kohonen Jukka, 3
+567, 14, Koponen Olli "OKA", 1
+568, 14, Koskinen Taru, 22
+569, 14, Kuoppa-aho Mika "Kuoppa", 16
+570, 14, Laakko Juhani, 9
+571, 14, Lahtinen Merja, 31
+572, 14, Mikkel„ Otto-Ville, 6
+573, 14, Mustonen Pilvi, 10
+574, 14, M„kel„ Ari, 4
+575, 14, Nikander Sami "Niksu", 8
+576, 14, Pennanen Petrus, 10
+577, 14, Rajam„ki Mika, 5
+578, 14, Ruonala Mika "Nappula", 16
+579, 14, Saarelainen Jari "Jakke", 15
+580, 14, Saarinen Vesa, 15
+581, 14, Salonaho Oscar, 18
+582, 14, Sorsa Mika "Pingviini", 11
+583, 14, Tapanainen Sari, 23
+584, 14, Th”lix Laura, 17
+585, 14, T”rm„lehto Heidi, 4
+586, 14, Virtanen Markku "Polle", 2
+587, 15, Almqvist Casper, 2
+588, 15, Eskuri Mia, 3
+589, 15, Gylling Sebastian, 5
+590, 15, Haaksiluoto Sinikka, 1
+591, 15, Haltia Johanna, 9
+592, 15, Hansson Jonas, 4
+593, 15, Ilva Jyrki, 12
+594, 15, Jansson Monica, 8
+595, 15, Kruut Marja, 13
+596, 15, Lev„ Ilkka, 4
+597, 15, Myller Mikko, 24
+598, 15, Parland-von Essen Jessica, 3
+599, 15, Pirhonen Taija, 18
+600, 15, Remes Pauliina, 13
+601, 15, Ruohonen Susanna, 6
+602, 15, Saarniaho Ram, 9
+603, 15, Savonen Tuomas, 18
+604, 15, Suvensaari Tommi, 7
+605, 15, Svenfelt Anders, 6
+606, 15, Vuolanto Ville, 10
+607, 16, Aspinen Mika, 9
+608, 16, Aukee Mirja Maija, 13
+609, 16, Hakala Jyri, 4
+610, 16, Hautala Jukka, 9
+611, 16, Heikkil„ Marianne, 13
+612, 16, Heikkinen Kanerva, 9
+613, 16, Huotari Anna, 9
+614, 16, Huotari Mikko, 35
+615, 16, Hyt”nen Pirre, 3
+616, 16, H„m„l„inen Miika, 6
+617, 16, Ilppola Minna, 16
+618, 16, Kalliokoski Lauri, 22
+619, 16, Kanala Kari, 16
+620, 16, Kanala Katri, 10
+621, 16, Kara-Jussila Pia, 20
+622, 16, Kuittinen Arhi, 2
+623, 16, Litendahl Topi "Toivo", 7
+624, 16, Matikainen Iina, 8
+625, 16, Myyryl„inen Seppo, 7
+626, 16, M„kel„ Liisa, 11
+627, 16, Nyholm "Kitu", 1
+628, 16, Pihlainen Hanne, 5
+629, 16, Rautio Hanna, 15
+630, 16, Ropponen Juha, 32
+631, 16, Silfverhuth "Olsa", 26
+632, 16, Silvennoinen Tommi, 1
+633, 16, Turakka Pauliina, 5
+634, 16, Turman Heli, 10
+635, 16, Varkemaa Elisa, 8
+636, 16, V„yrynen Leena, 6
+637, 16, berg Anu, 0
+638, 17, Fields Marion, 91
+639, 17, Hellberg Pirita, 27
+640, 17, Henriksson Juha, 8
+641, 17, Huhta Susanna, 17
+642, 17, Karikoski "Rik", 9
+643, 17, Keskitalo Esa-Pekka, 57
+644, 17, Kouki Paula, 10
+645, 17, Lindh Kirsi, 5
+646, 17, Toijonen Ale, 15
+647, 17, Vallasvuo Virpi, 12
+648, 17, Kemppainen Marjo, 44
+649, 17, Laukkanen Johanna "Peppi", 6
+650, 17, Nylander Laura, 29
+651, 17, Anttolainen Mari, 85
+652, 18, Forsstr”m Petra, 19
+653, 18, Haaramo Peija, 8
+654, 18, Huttunen Teemu, 5
+655, 18, Kajas Jari, 40
+656, 18, Lindegren Lotta, 7
+657, 18, Mielck Lotte, 11
+658, 18, Pallin Joachim, 19
+659, 18, Pasanen Ulla-Kristina, 14
+660, 18, Rand‚n Pasi, 12
+661, 19, Erkkil„ Mattias, 29
+662, 19, Jauho Mikko, 7
+663, 19, Kangasharju Sanna, 22
+664, 19, Paukku Miira, 18
+665, 19, Naukkarinen Petra, 7
+666, 19, Salovaara Inka, 17
+667, 19, Snell Susanna, 4
+668, 19, S„ntti Hanna, 9
+669, 19, Ylikoski Petri, 7
+670, 20, Backstr”m Anders, 37
+671, 20, Bergholm Robert, 63
+672, 20, Dahlberg Katja "Dallas", 29
+673, 20, Ekelund Jesper, 20
+674, 20, Floman Josefin "Jussi", 16
+675, 20, Gr”nholm Mikaela, 29
+676, 20, Gustafsson Marcus, 20
+677, 20, Ilmonen Klaus, 63
+678, 20, Kj„llman Patrik "Paddan", 9
+679, 20, Lehtonen Sonja, 7
+680, 20, Lundstr”m Lotta, 22
+681, 20, Paqval‚n Rita, 38
+682, 20, Schauman Patrik, 17
+683, 20, Schulman Filip, 27
+684, 20, Sittnikow Rabbe, 37
+685, 20, Still Magnus, 14
+686, 20, Sundman Jonas, 18
+687, 20, Vanhatalo Maria "Mia", 21
+688, 20, Wahlstr”m "Pyttan", 38
+689, 20, W„gar Thomas "Wege", 25
+690, 21, Peltonen Teemu, 6
+691, 21, Pitk„paasi Marjaana, 33
+692, 21, Rautanen Jati, 11
+693, 21, Rytk”nen Satu, 41
+694, 21, Sandberg Susanna, 9
+695, 21, Visap„„ Harri, 53
+696, 22, Aalto Antti, 6
+697, 22, Ahlaj„rvi Suvi, 9
+698, 22, Ahola Jarkko, 5
+699, 22, Arjanne Jyrki "Jyk„", 11
+700, 22, Cederberg Marjukka, 4
+701, 22, El-Haffar "Jussi", 0
+702, 22, Ekdahl Hanna, 3
+703, 22, Flinckenberg Peter "Flinkis", 7
+704, 22, Haarma Kai, 13
+705, 22, Heini” Jonna, 6
+706, 22, Heiskanen Miika, 28
+707, 22, Helenne Antti, 2
+708, 22, Hietala Jaakko, 21
+709, 22, Hiltunen Heidi, 3
+710, 22, Huovinen Petteri, 2
+711, 22, H„nninen Tytti, 11
+712, 22, Jouhki Julia, 5
+713, 22, Jokinen Eveliina, 18
+714, 22, Kapanen Ari, 11
+715, 22, Kattelus Minna, 3
+716, 22, Kiuru Antti, 4
+717, 22, Kojonen Katja, 0
+718, 22, Kortelainen Antti Petteri, 4
+719, 22, Koskenm„ki Riikka, 5
+720, 22, Kunnas Tuula, 6
+721, 22, Kurki-Suonio Ilona "Hullu-Illu", 22
+722, 22, Lahti Suvi, 7
+723, 22, Lahtinen Anna, 9
+724, 22, Lappi Timo, 4
+725, 22, Lehmusvuo Mirka, 1
+726, 22, Lohikoski Orvokki, 4
+727, 22, Louhija Matti, 22
+728, 22, Myhrberg Markus, 4
+729, 22, Nevalainen Jari, 6
+730, 22, Nissinen S„de, 2
+731, 22, Nykopp Mia, 3
+732, 22, Nyk„nen Nina, 3
+733, 22, Nyk„nen Sanna, 4
+734, 22, Piepponen Anna Kaarina, 24
+735, 22, Ropponen Liisa, 4
+736, 22, Saari Harri, 5
+737, 22, Saarnilahti P„ivi, 3
+738, 22, Sepp„l„ Karolina, 3
+739, 22, Sokka Jussi, 3
+740, 22, Suono Sari, 1
+741, 22, S”derholm Arno, 11
+742, 22, Taponen Teo, 7
+743, 22, Wuorinen Marko, 1
+744, 22, Yl„-Autio Jani, 12
+745, 22, ik„s Saija, 31
+746, 23, Ahokallio Heidi, 8
+747, 23, H”ykinpuro Mervi H., 13
+748, 23, Laaksonen "Tintti", 11
+749, 23, Leminen Janne, 33
+750, 23, Lepp„l„ Johanna, 13
+751, 23, Paavola Soili, 29
+752, 23, Reen Johanna, 8
+753, 23, Toiviainen Ilona, 20
+754, 23, Vainikainen Sari, 15
+755, 23, Voipio Sanna, 22
+756, 23, Vuohelainen Hanna, 18
+757, 24, Antikainen Mika, 4
+758, 24, Autio Jaakko, 4
+759, 24, Autio Minna, 10
+760, 24, Castr‚n Reko, 26
+761, 24, Groschup Torsten, 5
+762, 24, Hagelstam Kajus, 12
+763, 24, H„kkinen "Vesku", 8
+764, 24, Junkkari Marko, 10
+765, 24, Kiikka Antti "Kiippa", 2
+766, 24, Kivinen Birgitta, 7
+767, 24, Lagerbohm John, 12
+768, 24, Lankinen Petri, 15
+769, 24, Laurila Tatu, 6
+770, 24, Mattila Timo "Ossi", 5
+771, 24, Oksanen "Ana", 8
+772, 25, Aho Marja, 7
+773, 25, Ahonen Vesa, 2
+774, 25, Ala-M„yry Terhi, 6
+775, 25, Alkio Mikko, 3
+776, 25, Arola Pauliina, 12
+777, 25, B„ckman Tarja, 7
+778, 25, Heikkinen Anna-Maija, 1
+779, 25, Heiniluoma Jari, 9
+780, 25, Helenius Juha, 6
+781, 25, Huhtala Pauliina, 9
+782, 25, Huovinen Petri, 1
+783, 25, Kaasalainen Taina, 5
+784, 25, Kaasalainen Vesa, 2
+785, 25, Kairinen Petri, 3
+786, 25, Kaukola Veli, 2
+787, 25, Kivim„ki Katja, 4
+788, 25, Kohmo Pasi, 4
+789, 25, Kosonen Anja, 1
+790, 25, Laaksonen Marko, 2
+791, 25, Latvala Vesa, 13
+792, 25, Laukama Katariina, 8
+793, 25, Lehtinen Roope, 2
+794, 25, Lind Jouni, 11
+795, 25, Linjakumpu Hannu, 13
+796, 25, Lohi Outi, 1
+797, 25, Markkanen Jukka, 6
+798, 25, M„kinen Heikki, 12
+799, 25, M„kinen Vesa-Matti, 18
+800, 25, Noronen Visa, 2
+801, 25, Oinonen Markku, 1
+802, 25, Ojala Heikki, 3
+803, 25, Ollikainen Mika, 3
+804, 25, Peltonen Tarja, 4
+805, 25, Pentik„inen Antti Yrj„n„, 33
+806, 25, Peura Esko, 3
+807, 25, Tavasti T., 3
+808, 25, Virtanen Tuomo, 6
+809, 25, Weckman Markku, 4
+810, 26, Brummer Mirko, 21
+811, 26, Er„polku Merja, 23
+812, 26, Ringman Jori, 16
+813, 26, Toivonen Pekka, 32
+814, 26, Virvonen Marjut, 18
+815, 26, V„nsk„ Simopekka, 24
+816, 26, Wallenius Jukka, 19
+817, 27, Arminen Susanna, 57
+818, 27, Eskelinen Juha, 4
+819, 27, Huhtala Arto, 8
+820, 27, Kippil„ Petri, 10
+821, 27, Kohonen Pekko, 41
+822, 27, Konsti Anne, 14
+823, 27, Kulju Ari, 28
+824, 27, M„kel„ Janne, 21
+825, 27, Noki Jaana, 15
+826, 27, Outa Pia, 18
+827, 27, Parkkonen P„ivi, 11
+828, 27, Pesonen Jorma "Jozma", 5
+829, 27, Raininko Teppo, 50
+830, 27, Tikka P„ivi, 6
+831, 27, Toivari Outi, 19
+832, 27, Veranen Rami, 16
+833, 27, Yrj”l„ Kari, 8
+834, 27, ™rn Suvi, 18
+835, 28, Honkkila Juha, 15
+836, 28, Kallio Timo, 9
+837, 28, Lehtonen Jukka, 10
+838, 28, Likovuori Kari, 19
+839, 29, Isosaari Ky”sti "K”ssi", 14
+840, 29, Korhonen Kati, 24
+841, 29, Laine Timo "Tyrsky", 23
+842, 29, Lehtil„ Reko, 14
+843, 29, Lehtinen Christel, 10
+844, 29, Lehtisyrj„ Mika "Miksu", 28
+845, 29, Mentula Laura, 4
+846, 29, Niskanen Veikko "Weke", 8
+847, 29, Pihlainen Katja, 15
+848, 29, Vuorinen Jouni, 3
+849, 30, Airio Arto, 18
+850, 30, Alm Niina, 17
+851, 30, Andersson Timo, 20
+852, 30, Berndtson Tea, 17
+853, 30, Forss Timo, 19
+854, 30, Forsstr”m Kari, 7
+855, 30, Hamilo Marko, 6
+856, 30, Heiskanen "Saku", 22
+857, 30, Hirvonen Tero, 7
+858, 30, Honkanen Reijo, 9
+859, 30, Kuusi Hanna, 24
+860, 30, Leskinen Mari, 17
+861, 30, Meronen Petri "Mertsi", 17
+862, 30, Paasonen Henna, 7
+863, 30, Partio Susanna, 32
+864, 30, Rantanen Tuomas, 71
+865, 30, Ristim„ki Outi, 13
+866, 30, Seppo Lauri Mikael, 2
+867, 30, Sundstr”m Satu, 22
+868, 30, Vainio Janne "Chabop", 9
+869, 30, Valkama Jaana, 8
+870, 30, Varjos Oiva, 6
+871, 30, Viljanen Maria, 48
+872, 30, Virtanen Kaisu, 22
+873, 30, V„nsk„ Minna, 18
+874, 31, Puustinen Sari, 66
+875, 31, Haakana Kari, 22
+876, 31, Holm Ruurik, 32
+877, 31, Kilpi Tuomas, 25
