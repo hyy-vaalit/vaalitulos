@@ -79,7 +79,7 @@ title: Edustajistovaalien äänestysprosentti
       // per faculty is pubslished in "votes_by_hour.html"
       function drawByFaculties(jsonData) {
         rows = [];
-        rows.push(['Tiedekunta', 'Äänestäjiä', 'Ääniä', 'Äänestysprosentti']);
+        rows.push(['Tiedekunta', 'Äänioikeutettuja', 'Ääniä', 'Äänestysprosentti']);
 
         jsonData["children"]["faculties"].map((faculty) => {
           rows.push([faculty.name, faculty.voter_count, faculty.vote_count, faculty.percentage])

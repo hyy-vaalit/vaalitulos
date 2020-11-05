@@ -133,7 +133,7 @@ title: Äänestäjät ajanhetken mukaan
 
   function drawByVoterStartYear(jsonData) {
     rows = [];
-    rows.push(['Aloitusvuosi', 'Ääniä', 'Äänestäjiä', 'Äänestysprosentti']);
+    rows.push(['Aloitusvuosi', 'Ääniä', 'Äänioikeutettuja', 'Äänestysprosentti']);
 
     jsonData["children"]["start_years"].map((row) => {
       let startYear = row.start_year.toString();
@@ -177,7 +177,7 @@ title: Äänestäjät ajanhetken mukaan
 <ul>
   <li>Äänestysprosentti: <strong><span id="summary-total-voting-percentage"></span></strong> %</li>
   <li>Ääniä annettu: <span id="summary-total-vote-count"></span></li>
-  <li>Äänestäjiä: <span id="summary-total-voter-count"></span></li>
+  <li>Äänioikeutettuja: <span id="summary-total-voter-count"></span></li>
   <li>Kuvaajaan on merkitty tunnit, joiden aikana äänten määrä on kasvanut 1000:lla.</li>
   <li>Tilasto luotu: <span id="summary-total-created-at"></span></li>
 </ul>
