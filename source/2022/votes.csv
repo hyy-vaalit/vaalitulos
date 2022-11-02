@@ -1,0 +1,414 @@
+ehdokasnumero,ehdokasnimi,ääniä,vaaliliitto,vaaliliiton id
+2,"Aarto, Lotta",39,Kokoomus,1
+3,"Baarman, Nea-Bettina",22,Kokoomus,1
+4,"Botty van den Bruele, Adelaide",5,Kokoomus,1
+5,"Bäckström, Teresa",6,Kokoomus,1
+6,"Euro, Alvar",10,Kokoomus,1
+7,"Haavisto, Elias",3,Kokoomus,1
+8,"Heinonen, Oskari",20,Kokoomus,1
+9,"Hitruhin, Mikael",4,Kokoomus,1
+10,"Jalli, Maria",12,Kokoomus,1
+11,"Joensuu, Joakim",16,Kokoomus,1
+12,"Junnila, Emilia",13,Kokoomus,1
+13,"Kanervo, Mikko",31,Kokoomus,1
+14,"Kareen, Samuel",4,Kokoomus,1
+15,"Karhunen, Mikko",38,Kokoomus,1
+16,"Karjalainen, Topias",1,Kokoomus,1
+17,"Kekonen, Aleksanteri",5,Kokoomus,1
+18,"Keski-Luoma, Miika",22,Kokoomus,1
+19,"Kivisaari, Ella",1,Kokoomus,1
+20,"Korpinen, Topi",10,Kokoomus,1
+21,"Kuivala, Onni",7,Kokoomus,1
+22,"Kujala, Vilma",25,Kokoomus,1
+23,"Kuva, Salla",27,Kokoomus,1
+24,"Kähkönen, Paavo",6,Kokoomus,1
+25,"Laasonen, Hanna-Liisa",3,Kokoomus,1
+26,"Laavi, Elina",1,Kokoomus,1
+27,"Laitila, Juho",3,Kokoomus,1
+28,"Lehtimäki, Anniina",4,Kokoomus,1
+29,"Lehtonen, Akseli",18,Kokoomus,1
+30,"Leinonen, Sofia",4,Kokoomus,1
+31,"Lempinen, Kiia",3,Kokoomus,1
+32,"Leppämäki, Samuli",9,Kokoomus,1
+33,"Linnakangas, Jaakko",1,Kokoomus,1
+34,"Mäenpää, Emma",11,Kokoomus,1
+35,"Niva-Vesala, Iida",9,Kokoomus,1
+36,"Nordman, Sina",2,Kokoomus,1
+37,"Nupponen, Konsta",4,Kokoomus,1
+38,"Nurmela, Jeremias",6,Kokoomus,1
+39,"Nyman, Onni",76,Kokoomus,1
+40,"Pajula, Matias",17,Kokoomus,1
+41,"Pakarinen, Toni",7,Kokoomus,1
+42,"Pesonen, Petri",29,Kokoomus,1
+43,"Pulliainen, Joonas",3,Kokoomus,1
+44,"Rautionaho, Jenna",5,Kokoomus,1
+45,"Rintanen, Arttu",9,Kokoomus,1
+46,"Riutta, Elina",6,Kokoomus,1
+47,"Ropponen, Jutta",8,Kokoomus,1
+48,"Salonen, Jussi",25,Kokoomus,1
+49,"Schavikin, Johannes",5,Kokoomus,1
+50,"Skottman, Jerdi",4,Kokoomus,1
+51,"Tarvainen, Nea",4,Kokoomus,1
+52,"Toivonen, Jenni",6,Kokoomus,1
+53,"Tuomela, Leo",5,Kokoomus,1
+54,"Tupamäki, Binga",40,Kokoomus,1
+55,"Vehkavaara, Aino",4,Kokoomus,1
+56,"Vesinurm, Märt",16,Kokoomus,1
+57,"Virkki, Pekka",7,Kokoomus,1
+58,"Virpo, Tinna",7,Kokoomus,1
+59,"Vuornos, Henrik",8,Kokoomus,1
+60,"Vähäuski, Heidi",6,Kokoomus,1
+61,"Alaraappana, Anna",52,Keskeiset,8
+62,"Flyktman, Aleksi",21,Keskeiset,8
+63,"Kaasinen, Fanny",11,Keskeiset,8
+64,"Kajan, Venla",9,Keskeiset,8
+65,"Lilja, Matias",9,Keskeiset,8
+66,"Paavilainen, Joonas",7,Keskeiset,8
+67,"Sipilä, Aleksi",42,Keskeiset,8
+68,"Suhonen, Otto",11,Keskeiset,8
+69,"Brummer, Saga",12,Svenska Nationer och Ämnesföreningar,2
+70,"Karlman, Alexander",5,Svenska Nationer och Ämnesföreningar,2
+71,"Laitinen, Jussi",4,Svenska Nationer och Ämnesföreningar,2
+72,"Lindeberg, Elsa",13,Svenska Nationer och Ämnesföreningar,2
+73,"Savander, Carolina",12,Svenska Nationer och Ämnesföreningar,2
+74,"Westerlund, Karin",5,Svenska Nationer och Ämnesföreningar,2
+75,"Wiksten, Sofia",8,Svenska Nationer och Ämnesföreningar,2
+76,"Häggblom, Rebecca",35,Svenska Nationer och Ämnesföreningar,2
+77,"Grönroos, Kalle",38,Svenska Nationer och Ämnesföreningar,2
+78,"Lung, Gideon Hagström",36,Svenska Nationer och Ämnesföreningar,2
+79,"Lindblom, Mathilda",11,Svenska Nationer och Ämnesföreningar,2
+80,"Fagerholm, Jonathan",5,Svenska Nationer och Ämnesföreningar,2
+81,"Hasselblatt, Lucas",15,Svenska Nationer och Ämnesföreningar,2
+82,"Rehn, Julia",15,Svenska Nationer och Ämnesföreningar,2
+83,"Kesäläinen, Elsi",58,Svenska Nationer och Ämnesföreningar,2
+84,"Peltoniemi, Pyry",4,Svenska Nationer och Ämnesföreningar,2
+85,"Englund, Ronja",4,Svenska Nationer och Ämnesföreningar,2
+86,"Jokinen, Ben",3,Svenska Nationer och Ämnesföreningar,2
+87,"Peltomäki, Wilma",7,Svenska Nationer och Ämnesföreningar,2
+88,"Ekman, Edvin",12,Svenska Nationer och Ämnesföreningar,2
+89,"Hedström, Anna",4,Svenska Nationer och Ämnesföreningar,2
+90,"Kainulainen, Tuukka",49,Svenska Nationer och Ämnesföreningar,2
+91,"Lindberg, Heddi",12,Svenska Nationer och Ämnesföreningar,2
+92,"Lindberg, Mikaela",3,Svenska Nationer och Ämnesföreningar,2
+93,"Lindfors, Alva",4,Svenska Nationer och Ämnesföreningar,2
+94,"Lindholm, Karen",3,Svenska Nationer och Ämnesföreningar,2
+95,"Mäntylä, Milla",8,Svenska Nationer och Ämnesföreningar,2
+96,"Niskanen, Evelina",7,Svenska Nationer och Ämnesföreningar,2
+97,"Räihä, Nicolina",9,Svenska Nationer och Ämnesföreningar,2
+98,"Sederholm, Lotta",48,Svenska Nationer och Ämnesföreningar,2
+99,"Séraphin, Ania",5,Svenska Nationer och Ämnesföreningar,2
+100,"Slöör, Ida",10,Svenska Nationer och Ämnesföreningar,2
+101,"Taipale, Selja",58,Svenska Nationer och Ämnesföreningar,2
+102,"Tiila, Elisabeth 'Ellu'",9,Svenska Nationer och Ämnesföreningar,2
+103,"Wahlroos, Victor",13,Svenska Nationer och Ämnesföreningar,2
+104,"Stenman, Otto",83,Svenska Nationer och Ämnesföreningar,2
+105,"Verkasalo, Veera",53,Svenska Nationer och Ämnesföreningar,2
+106,"Zitting, Felix",36,Svenska Nationer och Ämnesföreningar,2
+107,"Aronen, Matilda",7,Osakunnat 1,10
+108,"Hietaharju, Atte",1,Osakunnat 1,10
+109,"Jaatinen, Tatu",1,Osakunnat 1,10
+110,"Karvonen, Riina",55,Osakunnat 1,10
+111,"Keinänen, Satu",5,Osakunnat 1,10
+112,"Korkeamäki, Astrid",1,Osakunnat 1,10
+113,"Korkeela, Jesperi",5,Osakunnat 1,10
+114,"Leinikki, Aleksi",2,Osakunnat 1,10
+115,"Lindh, Aleksanteri",5,Osakunnat 1,10
+116,"Lindqvist, Juho",1,Osakunnat 1,10
+117,"Makkonen, Savu",15,Osakunnat 1,10
+118,"Ojanperä, Erika",3,Osakunnat 1,10
+119,"Partonen, Henna",2,Osakunnat 1,10
+120,"Penttinen, Aapo",20,Osakunnat 1,10
+121,"Romanowski, Paul",4,Osakunnat 1,10
+122,"Räsänen, Salla",2,Osakunnat 1,10
+123,"Sipila, Johannes",5,Osakunnat 1,10
+124,"Tarkiainen, Kristiina",1,Osakunnat 1,10
+125,"Tillander, Emil",1,Osakunnat 1,10
+126,"Wallin, Mirmilla",4,Osakunnat 1,10
+127,"Yli-Pietilä, Aarni",10,Osakunnat 1,10
+128,"Hatakka, Lauri",43,Osakunnat 1,10
+129,"Kilpeläinen, Aino",19,Osakunnat 1,10
+130,"Nieminen, Sanni",10,Osakunnat 1,10
+131,"Soljua, Saija",7,Osakunnat 1,10
+132,"Suominen, Sanni",7,Osakunnat 1,10
+134,"Väisälä, Laura",6,Osakunnat 1,10
+135,"Ahtiainen-Helanne, Salli",10,Osakunnat 1,10
+136,"Pykälistö, Pasi",5,Osakunnat 1,10
+137,"Kuuskoski, Kasperi",3,Osakunnat 1,10
+138,"Metsänperä, Linda",3,Osakunnat 1,10
+139,"Päivänsäde, Tomi",3,Osakunnat 1,10
+140,"Stolt, Mari",1,Osakunnat 1,10
+141,"Tuominen, Niko",2,Osakunnat 1,10
+142,"Koskela, Anna",13,Osakunnat 1,10
+143,"Miikki, Ella",9,Osakunnat 1,10
+144,"Mustakallio, Lauri",6,Osakunnat 1,10
+145,"Roiha, Ulriikka",18,Osakunnat 1,10
+146,"Tanhola, Jaakko",10,Osakunnat 1,10
+147,"Heikkilä, Joel",16,Osakunnat 2,12
+148,"Hänninen, Ville",21,Osakunnat 2,12
+149,"Kivinen, Niko",8,Osakunnat 2,12
+151,"Lamberg, Benjamin",68,Osakunnat 2,12
+152,"Lampiselkä, Laura",3,Osakunnat 2,12
+153,"Molin, Niko",5,Osakunnat 2,12
+154,"Taipale, Eero",10,Osakunnat 2,12
+155,"Taipale, Suvi",6,Osakunnat 2,12
+156,"Turto, Ari",2,Osakunnat 2,12
+157,"Janhonen, Pirita",21,Osakunnat 2,12
+158,"Hakala, Eero",10,Osakunnat 2,12
+159,"Heino, Henna",12,Osakunnat 2,12
+160,"Hermonen, Gerda",6,Osakunnat 2,12
+161,"Hietanen, Petra",4,Osakunnat 2,12
+162,"Mäkipää, Mikko",4,Osakunnat 2,12
+163,"Sundström, Ester",10,Osakunnat 2,12
+164,"Tomperi, Elias",4,Osakunnat 2,12
+165,"Vuolanne, Lennu",3,Osakunnat 2,12
+166,"Hasunen, Sami",9,Osakunnat 2,12
+167,"Kaarento, Anni",3,Osakunnat 2,12
+168,"Kienokoski, Jarkko",1,Osakunnat 2,12
+169,"Majaharju, Rafael",6,Osakunnat 2,12
+170,"Peura, Juho",1,Osakunnat 2,12
+171,"Puska, Antti",8,Osakunnat 2,12
+172,"Rantakangas, Eetu",6,Osakunnat 2,12
+173,"Enckell, Casper",24,Osakunnat 2,12
+174,"Kariluoto, Miia",1,Osakunnat 2,12
+176,"Krook, Aino",3,Osakunnat 2,12
+177,"Kuusijärvi, Riku",5,Osakunnat 2,12
+178,"Pesonen, Pentti",38,HELP LKS ja HLKS,3
+179,"Lahtiharju, Arttu",34,HELP LKS ja HLKS,3
+180,"Posa, Matias",40,HELP LKS ja HLKS,3
+181,"Forss, Tiia",33,HELP LKS ja HLKS,3
+182,"Ihlberg, Ella",92,HELP LKS ja HLKS,3
+183,"Stenberg, Jalmari",89,HELP LKS ja HLKS,3
+184,"Ilves, Sini",38,HELP LKS ja HLKS,3
+185,"Hautamaa, Iida",16,HELP LKS ja HLKS,3
+186,"Lankinen, Venla",43,HELP LKS ja HLKS,3
+187,"Korkee, Verneri",29,HELP LKS ja HLKS,3
+188,"Vainio, Onni",34,HELP LKS ja HLKS,3
+189,"Voutilainen, Krista",29,HELP LKS ja HLKS,3
+190,"Halava, Minka",4,HELP LKS ja HLKS,3
+191,"Pietilä, Alexander",13,HELP YFK ja EKY,9
+192,"Paalanen, Jasper",23,HELP YFK ja EKY,9
+193,"Manninen, Kalle",28,HELP YFK ja EKY,9
+194,"Nikunen, Emmi",21,HELP YFK ja EKY,9
+195,"Häyrinen, Noora",79,HELP YFK ja EKY,9
+196,"Myöhänen, Eetu",39,HELP YFK ja EKY,9
+197,"Niskanen, Nelli",19,HELP YFK ja EKY,9
+198,"Kankaanhuhta, Silja",35,HELP YFK ja EKY,9
+199,"Florström, Alexandra",47,HELP YFK ja EKY,9
+200,"Kokko, Riikka",96,HELP YFK ja EKY,9
+201,"Lehmus, Anniina",10,HELP YFK ja EKY,9
+202,"Martikainen, Joanna",30,HELP YFK ja EKY,9
+203,"Lilleberg, Iida",18,HELP YFK ja EKY,9
+204,"Välimaa, Kalle",7,HELP YFK ja EKY,9
+205,"Hämäläinen, Venla",52,HELP YFK ja EKY,9
+206,"Itkonen, Laura",8,HELP YFK ja EKY,9
+207,"Tyni, Olga",6,HELP YFK ja EKY,9
+208,"Väyrynen, Donna",4,HELP YFK ja EKY,9
+209,"Kokko, Saana",8,HELP YFK ja EKY,9
+210,"Laine, Semi",15,HELP YFK ja EKY,9
+211,"Aho, Tuomas",39,HELP Pykälä/Codex/Justus,13
+212,"Rönkä, Kosma",17,HELP Pykälä/Codex/Justus,13
+213,"Hakala, Teemu",22,HELP Pykälä/Codex/Justus,13
+214,"Lahtinen, Riikka",18,HELP Pykälä/Codex/Justus,13
+215,"Oravainen, Sari",23,HELP Pykälä/Codex/Justus,13
+216,"Pietilä, Oliver",8,HELP Pykälä/Codex/Justus,13
+217,"Hyppönen, Milja",15,HELP Pykälä/Codex/Justus,13
+218,"Cederberg, Joar",6,HELP Pykälä/Codex/Justus,13
+219,"Wallgren, Ville",10,HELP Pykälä/Codex/Justus,13
+220,"Holming, Nelly",14,HELP Pykälä/Codex/Justus,13
+221,"Aminoff, Christoffer",61,HELP Pykälä/Codex/Justus,13
+222,"Tolonen, Joonas",21,HELP Pykälä/Codex/Justus,13
+223,"Järvinen, Roope",7,HELP Pykälä/Codex/Justus,13
+224,"Simola, Richard",2,HELP Pykälä/Codex/Justus,13
+225,"Heiskanen, Saska",28,HELP Pykälä/Codex/Justus,13
+226,"Makkonen, Sami",26,HELP Pykälä/Codex/Justus,13
+227,"Edlund, Karoliina",59,HYAL Keskustakampus,4
+228,"Granström, Sampsa",14,HYAL Keskustakampus,4
+229,"Grönroos, Aapo",14,HYAL Keskustakampus,4
+230,"Hakala, Nea",40,HYAL Keskustakampus,4
+231,"Hergueta, Valentine",13,HYAL Keskustakampus,4
+232,"Kangaskolkka, Sini",4,HYAL Keskustakampus,4
+233,"Kettunen, Anniina",44,HYAL Keskustakampus,4
+234,"Laihanen, Ira",28,HYAL Keskustakampus,4
+235,"Laine, Tea",22,HYAL Keskustakampus,4
+236,"Lyysaari, Alex",19,HYAL Keskustakampus,4
+237,"Melander, Etta",47,HYAL Keskustakampus,4
+238,"Mäkelä, Pinja",5,HYAL Keskustakampus,4
+239,"Mäki, Tommi",15,HYAL Keskustakampus,4
+240,"Mäkinen, Arttu",23,HYAL Keskustakampus,4
+241,"Nevalainen, Veera",22,HYAL Keskustakampus,4
+242,"Nurisalo, Joonatan",2,HYAL Keskustakampus,4
+243,"Nyyssönen, Sophie",31,HYAL Keskustakampus,4
+244,"Ostrovskij, Tommi",12,HYAL Keskustakampus,4
+245,"Paakkari, Ulla",1,HYAL Keskustakampus,4
+246,"Pulli, Petra",37,HYAL Keskustakampus,4
+247,"Puumalainen, Julia",54,HYAL Keskustakampus,4
+248,"Päivänen, Jatta",4,HYAL Keskustakampus,4
+249,"Quednau, Vanessa",54,HYAL Keskustakampus,4
+250,"Raunio, Samuli",9,HYAL Keskustakampus,4
+251,"Rissanen, Joona",7,HYAL Keskustakampus,4
+252,"Riuttamäki, Santeri",3,HYAL Keskustakampus,4
+253,"Rättyä, Jonna",41,HYAL Keskustakampus,4
+254,"Saarelma, Marika",18,HYAL Keskustakampus,4
+255,"Seppä, Petri",32,HYAL Keskustakampus,4
+256,"Sikkilä, Syksy",15,HYAL Keskustakampus,4
+257,"Simola, Paula",12,HYAL Keskustakampus,4
+258,"Sinisalo, Mikko",5,HYAL Keskustakampus,4
+259,"Suuronen, Henna",18,HYAL Keskustakampus,4
+260,"Uurtimo, Uki",2,HYAL Keskustakampus,4
+261,"Weidenbacher, Eveliina",29,HYAL Keskustakampus,4
+262,"Belahcen, Delila",35,HYAL Viikki-Kumpula-Meikku,7
+263,"Halme, Eetu",27,HYAL Viikki-Kumpula-Meikku,7
+264,"Hartikainen, Oona",44,HYAL Viikki-Kumpula-Meikku,7
+265,"Heinonen, Kalle",21,HYAL Viikki-Kumpula-Meikku,7
+266,"Isomeri, Jessika",45,HYAL Viikki-Kumpula-Meikku,7
+267,"Janhunen, Konsta",28,HYAL Viikki-Kumpula-Meikku,7
+268,"Katajisto, Mila",22,HYAL Viikki-Kumpula-Meikku,7
+269,"Keltanen, Linnea",36,HYAL Viikki-Kumpula-Meikku,7
+270,"Koivu, Aukusti 'Aga'",55,HYAL Viikki-Kumpula-Meikku,7
+271,"Koivula, Kalle",14,HYAL Viikki-Kumpula-Meikku,7
+272,"Koutonen, Anniina",125,HYAL Viikki-Kumpula-Meikku,7
+273,"Mäki-Mikola, Pekka",35,HYAL Viikki-Kumpula-Meikku,7
+274,"Oiling, Alexander",26,HYAL Viikki-Kumpula-Meikku,7
+275,"Pellinen, Mikko",13,HYAL Viikki-Kumpula-Meikku,7
+276,"Rihko, Helmi",103,HYAL Viikki-Kumpula-Meikku,7
+277,"Rönn, Jonna",54,HYAL Viikki-Kumpula-Meikku,7
+278,"Sutinen, Toni",54,HYAL Viikki-Kumpula-Meikku,7
+279,"Ylhäisi, Matti",55,HYAL Viikki-Kumpula-Meikku,7
+280,"Ylitalo, Turo",44,HYAL Viikki-Kumpula-Meikku,7
+281,"Ahola, Joanna",42,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+282,"Havukainen, Anna 'Havu'",21,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+283,"Karvonen, Aapo",6,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+284,"Keränen, Silja",6,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+285,"Kinnunen, Venla",11,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+286,"Koskinen, Maisa",2,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+287,"Kuusipalo, Saana",5,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+288,"Kuuspalo, Viivi",15,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+289,"Lehtinen, Venla",41,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+290,"Leppänen, Meri",11,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+292,"Mattila, Jere",17,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+293,"Mäkynen, Matias",9,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+294,"Nevalainen, Sofia",6,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+295,"Nieminen, Alise",8,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+296,"Oikari, Emma",1,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+297,"Parkkila, Emilia",4,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+298,"Rantala, Ilona",23,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+299,"Rantalainen, Joonas",26,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+300,"Rönkkö, Riina",2,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+301,"Schaller, Anna-Sofia",2,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+302,"Shakir, Semra",7,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+303,"Vaateri, Irja",55,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+304,"Verkasalo, Sanna",10,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+305,"Viitamäki, Emilia",10,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+306,"Vironen, Katja",6,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
+307,"Kovanen, Teemu",45,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+308,"Kortelainen, Tommi",21,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+309,"Pylkkö, Alli",53,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+310,"Tujunen, Aleksi",29,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+311,"Haavisto, Jami",17,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+312,"Leinonen, Santeri",18,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+313,"Lindi, Konsta",23,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+314,"Naalisvaara, Sonja",63,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+315,"Flinkkilä, Helmi",62,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+316,"Pärnänen, Leo",5,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+317,"Söderholm, Emmi",24,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+318,"Juvani, Joonas",3,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+319,"Presnukhina, Anja",14,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+320,"Turkki, Anna",14,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+321,"Brandt, Anders",41,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+322,"Karvonen, Okko-Pekka",11,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+323,"Väisänen, Jukka",5,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+324,"Myllyniemi, Markus",13,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+325,"Lassila, Tilda",45,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+326,"Oksanen, Alex",3,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+327,"Lökström, Dodo",21,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+328,"Jaatinen, Vilma",19,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+329,"Arminen, Oscar",11,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+330,"Tammekann, Samuel",16,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+331,"Aarnio, Emil",29,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+332,"Kopperoinen, Petja",4,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+333,"Linkola, Maija",10,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+334,"Ålander, Linus",37,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+335,"Raunio, Eetu",23,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+336,"Foster, Oona",12,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+337,"Högdal, May",18,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+338,"Leinonen, Jenni",24,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+339,"Viskari, Osmo",4,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+340,"Sylgren, Inka",13,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+341,"Seppänen, Tia 'Tipu'",18,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+342,"Puumalainen, Olli",4,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+343,"Käyhkö, Oona",32,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+344,"Keskitalo, Onni",4,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+345,"Pykäläinen, Helmi",30,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+346,"Touma van der Meulen, Eugenie",23,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+347,"Waenthongkham, Janina",78,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+348,"Welsh, Emilia",3,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+349,"Rouvari, Akseli",23,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+350,"Afanasyeva, Anna",13,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+351,"Ruohonen, Aatu",3,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+352,"Pihlamo, Jutta",29,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+353,"Herronen, Vilma",8,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+354,"Hautamäki, Eleonora",10,HYYn Vihreät - De Gröna vid HUS - Helsinki University Greens,6
+355,"Ahokas, Atte",70,Sitoutumaton vasemmisto,11
+356,"Ahokas, Valtteri",8,Sitoutumaton vasemmisto,11
+357,"Arnivaara, Isla",20,Sitoutumaton vasemmisto,11
+358,"Bister, Sakari",63,Sitoutumaton vasemmisto,11
+359,"Brander, Samuel",13,Sitoutumaton vasemmisto,11
+360,"Eerola, Nikola 'Niko'",16,Sitoutumaton vasemmisto,11
+361,"Gurov, Vitaliy",77,Sitoutumaton vasemmisto,11
+362,"Haimi, Toivo",34,Sitoutumaton vasemmisto,11
+363,"Hakala, Mikko",46,Sitoutumaton vasemmisto,11
+364,"Harakka, Valtteri",23,Sitoutumaton vasemmisto,11
+365,"Heikkilä, Taavi",28,Sitoutumaton vasemmisto,11
+366,"Heinonen, Marianna",23,Sitoutumaton vasemmisto,11
+367,"Houttu, Aku",40,Sitoutumaton vasemmisto,11
+368,"Hämäläinen, Joel",2,Sitoutumaton vasemmisto,11
+369,"Kaijansinkko, Antti",65,Sitoutumaton vasemmisto,11
+370,"Kallioinen, Oskari",38,Sitoutumaton vasemmisto,11
+371,"Kasongo, Jenny",175,Sitoutumaton vasemmisto,11
+372,"Keskiivari, Kim",24,Sitoutumaton vasemmisto,11
+373,"Kilpinen, Tiia-Roosa",25,Sitoutumaton vasemmisto,11
+374,"Kiviniemi, Noora",60,Sitoutumaton vasemmisto,11
+375,"Koitila, Petra",14,Sitoutumaton vasemmisto,11
+376,"Kolkkinen, Ira",39,Sitoutumaton vasemmisto,11
+377,"Koski, Enni",10,Sitoutumaton vasemmisto,11
+378,"Külm, Meri",20,Sitoutumaton vasemmisto,11
+379,"Kärkkäinen, Teemu",20,Sitoutumaton vasemmisto,11
+380,"Kärnä, Toni",10,Sitoutumaton vasemmisto,11
+381,"Kääntee, Laura",8,Sitoutumaton vasemmisto,11
+382,"Laakkonen, Emppu",49,Sitoutumaton vasemmisto,11
+383,"Lagrilliere, Anton",22,Sitoutumaton vasemmisto,11
+384,"Lainema, Max",4,Sitoutumaton vasemmisto,11
+385,"Lindström, Maija",11,Sitoutumaton vasemmisto,11
+386,"Mullo, Pamela",2,Sitoutumaton vasemmisto,11
+387,"Nieminen, Lotta",13,Sitoutumaton vasemmisto,11
+388,"Paasonen, Janina",1,Sitoutumaton vasemmisto,11
+389,"Partanen, Linnea",45,Sitoutumaton vasemmisto,11
+390,"Peiponen, Henrik",8,Sitoutumaton vasemmisto,11
+391,"Peltokangas, Niko",4,Sitoutumaton vasemmisto,11
+392,"Pentikäinen, Viena",26,Sitoutumaton vasemmisto,11
+393,"Perjo, Satu",33,Sitoutumaton vasemmisto,11
+394,"Pietilä, Unna",5,Sitoutumaton vasemmisto,11
+395,"Pihlajamäki, Timo",39,Sitoutumaton vasemmisto,11
+396,"Pulkkinen, Rosanna",23,Sitoutumaton vasemmisto,11
+397,"Päätalo, Oskari",18,Sitoutumaton vasemmisto,11
+398,"Rajala, Jonna",72,Sitoutumaton vasemmisto,11
+399,"Reima, Aapo",8,Sitoutumaton vasemmisto,11
+400,"Saaristo, Elisa",4,Sitoutumaton vasemmisto,11
+401,"Salenius, Samuel",2,Sitoutumaton vasemmisto,11
+402,"Santonen, Kajsa",10,Sitoutumaton vasemmisto,11
+403,"Sarla, Jalmari",22,Sitoutumaton vasemmisto,11
+404,"Savolainen, Lassi",7,Sitoutumaton vasemmisto,11
+405,"Seppänen, Miikka",22,Sitoutumaton vasemmisto,11
+406,"Suihkonen, Tuomas",6,Sitoutumaton vasemmisto,11
+407,"Säkkinen, Taija",79,Sitoutumaton vasemmisto,11
+408,"Thompson, David",1,Sitoutumaton vasemmisto,11
+409,"Tiilikainen, Emma",14,Sitoutumaton vasemmisto,11
+410,"Vainio, Anni",76,Sitoutumaton vasemmisto,11
+411,"Valkama, Leo",25,Sitoutumaton vasemmisto,11
+412,"Virtanen, Vilja",1,Sitoutumaton vasemmisto,11
+413,"Vuorinen, Pinja",36,Sitoutumaton vasemmisto,11
+414,"Öberg, Sonja",39,Sitoutumaton vasemmisto,11
+133,"Tanttu, Olli",0,Osakunnat 1,10
+150,"Koistinen, Lassi",0,Osakunnat 2,12
+175,"Kauppila, Jasmin",0,Osakunnat 2,12
+291,"Matteinen, Petteri",0,Opiskelijoiden Sosialidemokraattinen Yhdistys,5
