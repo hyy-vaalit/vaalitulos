@@ -1,0 +1,314 @@
+{
+  "name": "Äänten lukumäärä tunneittain",
+  "year": 2022,
+  "created_at": "2022-11-02T20:43:27.308+02:00",
+  "children": {
+    "votes": [
+      {
+        "time": "2022-10-26 10:59",
+        "hourly_count": 564,
+        "cumulative_count": 564
+      },
+      {
+        "time": "2022-10-26 11:59",
+        "hourly_count": 578,
+        "cumulative_count": 1142
+      },
+      {
+        "time": "2022-10-26 12:59",
+        "hourly_count": 440,
+        "cumulative_count": 1582
+      },
+      {
+        "time": "2022-10-26 13:59",
+        "hourly_count": 331,
+        "cumulative_count": 1913
+      },
+      {
+        "time": "2022-10-26 14:59",
+        "hourly_count": 212,
+        "cumulative_count": 2125
+      },
+      {
+        "time": "2022-10-26 15:59",
+        "hourly_count": 140,
+        "cumulative_count": 2265
+      },
+      {
+        "time": "2022-10-26 16:59",
+        "hourly_count": 115,
+        "cumulative_count": 2380
+      },
+      {
+        "time": "2022-10-26 17:59",
+        "hourly_count": 86,
+        "cumulative_count": 2466
+      },
+      {
+        "time": "2022-10-26 18:59",
+        "hourly_count": 94,
+        "cumulative_count": 2560
+      },
+      {
+        "time": "2022-10-26 19:59",
+        "hourly_count": 78,
+        "cumulative_count": 2638
+      },
+      {
+        "time": "2022-10-27 10:59",
+        "hourly_count": 153,
+        "cumulative_count": 2791
+      },
+      {
+        "time": "2022-10-27 11:59",
+        "hourly_count": 136,
+        "cumulative_count": 2927
+      },
+      {
+        "time": "2022-10-27 12:59",
+        "hourly_count": 133,
+        "cumulative_count": 3060
+      },
+      {
+        "time": "2022-10-27 13:59",
+        "hourly_count": 77,
+        "cumulative_count": 3137
+      },
+      {
+        "time": "2022-10-27 14:59",
+        "hourly_count": 75,
+        "cumulative_count": 3212
+      },
+      {
+        "time": "2022-10-27 15:59",
+        "hourly_count": 58,
+        "cumulative_count": 3270
+      },
+      {
+        "time": "2022-10-27 16:59",
+        "hourly_count": 54,
+        "cumulative_count": 3324
+      },
+      {
+        "time": "2022-10-27 17:59",
+        "hourly_count": 41,
+        "cumulative_count": 3365
+      },
+      {
+        "time": "2022-10-27 18:59",
+        "hourly_count": 26,
+        "cumulative_count": 3391
+      },
+      {
+        "time": "2022-10-27 19:59",
+        "hourly_count": 32,
+        "cumulative_count": 3423
+      },
+      {
+        "time": "2022-10-28 10:59",
+        "hourly_count": 92,
+        "cumulative_count": 3515
+      },
+      {
+        "time": "2022-10-28 11:59",
+        "hourly_count": 86,
+        "cumulative_count": 3601
+      },
+      {
+        "time": "2022-10-28 12:59",
+        "hourly_count": 115,
+        "cumulative_count": 3716
+      },
+      {
+        "time": "2022-10-28 13:59",
+        "hourly_count": 76,
+        "cumulative_count": 3792
+      },
+      {
+        "time": "2022-10-28 14:59",
+        "hourly_count": 66,
+        "cumulative_count": 3858
+      },
+      {
+        "time": "2022-10-28 15:59",
+        "hourly_count": 69,
+        "cumulative_count": 3927
+      },
+      {
+        "time": "2022-10-28 16:59",
+        "hourly_count": 52,
+        "cumulative_count": 3979
+      },
+      {
+        "time": "2022-10-28 17:59",
+        "hourly_count": 52,
+        "cumulative_count": 4031
+      },
+      {
+        "time": "2022-10-28 18:59",
+        "hourly_count": 45,
+        "cumulative_count": 4076
+      },
+      {
+        "time": "2022-10-28 19:59",
+        "hourly_count": 25,
+        "cumulative_count": 4101
+      },
+      {
+        "time": "2022-10-31 10:59",
+        "hourly_count": 128,
+        "cumulative_count": 4229
+      },
+      {
+        "time": "2022-10-31 11:59",
+        "hourly_count": 138,
+        "cumulative_count": 4367
+      },
+      {
+        "time": "2022-10-31 12:59",
+        "hourly_count": 185,
+        "cumulative_count": 4552
+      },
+      {
+        "time": "2022-10-31 13:59",
+        "hourly_count": 205,
+        "cumulative_count": 4757
+      },
+      {
+        "time": "2022-10-31 14:59",
+        "hourly_count": 150,
+        "cumulative_count": 4907
+      },
+      {
+        "time": "2022-10-31 15:59",
+        "hourly_count": 111,
+        "cumulative_count": 5018
+      },
+      {
+        "time": "2022-10-31 16:59",
+        "hourly_count": 85,
+        "cumulative_count": 5103
+      },
+      {
+        "time": "2022-10-31 17:59",
+        "hourly_count": 66,
+        "cumulative_count": 5169
+      },
+      {
+        "time": "2022-10-31 18:59",
+        "hourly_count": 81,
+        "cumulative_count": 5250
+      },
+      {
+        "time": "2022-10-31 19:59",
+        "hourly_count": 79,
+        "cumulative_count": 5329
+      },
+      {
+        "time": "2022-11-1 10:59",
+        "hourly_count": 160,
+        "cumulative_count": 5489
+      },
+      {
+        "time": "2022-11-1 11:59",
+        "hourly_count": 172,
+        "cumulative_count": 5661
+      },
+      {
+        "time": "2022-11-1 12:59",
+        "hourly_count": 195,
+        "cumulative_count": 5856
+      },
+      {
+        "time": "2022-11-1 13:59",
+        "hourly_count": 154,
+        "cumulative_count": 6010
+      },
+      {
+        "time": "2022-11-1 14:59",
+        "hourly_count": 92,
+        "cumulative_count": 6102
+      },
+      {
+        "time": "2022-11-1 15:59",
+        "hourly_count": 61,
+        "cumulative_count": 6163
+      },
+      {
+        "time": "2022-11-1 16:59",
+        "hourly_count": 59,
+        "cumulative_count": 6222
+      },
+      {
+        "time": "2022-11-1 17:59",
+        "hourly_count": 62,
+        "cumulative_count": 6284
+      },
+      {
+        "time": "2022-11-1 18:59",
+        "hourly_count": 53,
+        "cumulative_count": 6337
+      },
+      {
+        "time": "2022-11-1 19:59",
+        "hourly_count": 61,
+        "cumulative_count": 6398
+      },
+      {
+        "time": "2022-11-2 10:59",
+        "hourly_count": 228,
+        "cumulative_count": 6626
+      },
+      {
+        "time": "2022-11-2 11:59",
+        "hourly_count": 250,
+        "cumulative_count": 6876
+      },
+      {
+        "time": "2022-11-2 12:59",
+        "hourly_count": 238,
+        "cumulative_count": 7114
+      },
+      {
+        "time": "2022-11-2 13:59",
+        "hourly_count": 211,
+        "cumulative_count": 7325
+      },
+      {
+        "time": "2022-11-2 14:59",
+        "hourly_count": 198,
+        "cumulative_count": 7523
+      },
+      {
+        "time": "2022-11-2 15:59",
+        "hourly_count": 133,
+        "cumulative_count": 7656
+      },
+      {
+        "time": "2022-11-2 16:59",
+        "hourly_count": 161,
+        "cumulative_count": 7817
+      },
+      {
+        "time": "2022-11-2 17:59",
+        "hourly_count": 163,
+        "cumulative_count": 7980
+      },
+      {
+        "time": "2022-11-2 18:59",
+        "hourly_count": 160,
+        "cumulative_count": 8140
+      },
+      {
+        "time": "2022-11-2 19:59",
+        "hourly_count": 210,
+        "cumulative_count": 8350
+      }
+    ],
+    "total": {
+      "vote_count": 8350,
+      "voter_count": 25838,
+      "percentage": 32.32
+    }
+  }
+}
