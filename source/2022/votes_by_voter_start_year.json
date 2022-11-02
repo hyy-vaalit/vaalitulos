@@ -1,0 +1,168 @@
+{
+  "name": "Äänten lukumäärä aloitusvuoden mukaan",
+  "year": 2022,
+  "created_at": "2022-11-02T20:13:25.868+02:00",
+  "children": {
+    "start_years": [
+      {
+        "start_year": 0,
+        "voter_count": 2,
+        "vote_count": 2,
+        "percentage": 100.0,
+        "combined": false
+      },
+      {
+        "start_year": 2002,
+        "voter_count": 946,
+        "vote_count": 40,
+        "percentage": 4.23,
+        "combined": true
+      },
+      {
+        "start_year": 2003,
+        "voter_count": 122,
+        "vote_count": 7,
+        "percentage": 5.74,
+        "combined": false
+      },
+      {
+        "start_year": 2004,
+        "voter_count": 160,
+        "vote_count": 9,
+        "percentage": 5.63,
+        "combined": false
+      },
+      {
+        "start_year": 2005,
+        "voter_count": 28,
+        "vote_count": 4,
+        "percentage": 14.29,
+        "combined": false
+      },
+      {
+        "start_year": 2006,
+        "voter_count": 20,
+        "vote_count": 0,
+        "percentage": 0.0,
+        "combined": false
+      },
+      {
+        "start_year": 2007,
+        "voter_count": 32,
+        "vote_count": 3,
+        "percentage": 9.38,
+        "combined": false
+      },
+      {
+        "start_year": 2008,
+        "voter_count": 39,
+        "vote_count": 3,
+        "percentage": 7.69,
+        "combined": false
+      },
+      {
+        "start_year": 2009,
+        "voter_count": 49,
+        "vote_count": 4,
+        "percentage": 8.16,
+        "combined": false
+      },
+      {
+        "start_year": 2010,
+        "voter_count": 64,
+        "vote_count": 6,
+        "percentage": 9.38,
+        "combined": false
+      },
+      {
+        "start_year": 2011,
+        "voter_count": 85,
+        "vote_count": 11,
+        "percentage": 12.94,
+        "combined": false
+      },
+      {
+        "start_year": 2012,
+        "voter_count": 140,
+        "vote_count": 15,
+        "percentage": 10.71,
+        "combined": false
+      },
+      {
+        "start_year": 2013,
+        "voter_count": 224,
+        "vote_count": 28,
+        "percentage": 12.5,
+        "combined": false
+      },
+      {
+        "start_year": 2014,
+        "voter_count": 359,
+        "vote_count": 39,
+        "percentage": 10.86,
+        "combined": false
+      },
+      {
+        "start_year": 2015,
+        "voter_count": 705,
+        "vote_count": 131,
+        "percentage": 18.58,
+        "combined": false
+      },
+      {
+        "start_year": 2016,
+        "voter_count": 1099,
+        "vote_count": 194,
+        "percentage": 17.65,
+        "combined": false
+      },
+      {
+        "start_year": 2017,
+        "voter_count": 1912,
+        "vote_count": 532,
+        "percentage": 27.82,
+        "combined": false
+      },
+      {
+        "start_year": 2018,
+        "voter_count": 2410,
+        "vote_count": 788,
+        "percentage": 32.7,
+        "combined": false
+      },
+      {
+        "start_year": 2019,
+        "voter_count": 3080,
+        "vote_count": 1076,
+        "percentage": 34.94,
+        "combined": false
+      },
+      {
+        "start_year": 2020,
+        "voter_count": 4012,
+        "vote_count": 1518,
+        "percentage": 37.84,
+        "combined": false
+      },
+      {
+        "start_year": 2021,
+        "voter_count": 4620,
+        "vote_count": 1798,
+        "percentage": 38.92,
+        "combined": false
+      },
+      {
+        "start_year": 2022,
+        "voter_count": 5730,
+        "vote_count": 2142,
+        "percentage": 37.38,
+        "combined": false
+      }
+    ],
+    "total": {
+      "vote_count": 8350,
+      "voter_count": 25838,
+      "percentage": 32.32
+    }
+  }
+}
