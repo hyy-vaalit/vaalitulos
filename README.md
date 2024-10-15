@@ -9,7 +9,12 @@ HYYn vaalitulospalvelu
   - candidates.json
   - result.json
 
-- See `git show 9236fe` for an example how to setup a new election year.
+- See `git show 271b3a6` for an example how to setup a new election year.
+  - Copy misc/placeholder-result.html to YYYY/result.html in S3
+    by copying the file and running bin/deploy,
+    but don't commit it to git under YYYY/result.html to not accidentally overwrite the actual
+    result after it has been published.
+  - Add generated files from AWS S3 to git immediately after the elections have ended.
 
 
 ## Setup
