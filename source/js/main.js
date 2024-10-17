@@ -35,11 +35,11 @@ function loadResultData(resultPath, chartCallback, errorCallback) {
 }
 
 function displayChartLoadError(e) {
-  $('#chart').append('Virhe tuloksen lataamisessa. Todennäköisesti vaalitulosta ei ole vielä julkaistu.');
+  $('#chart').append('Vaalitulosta ei ole vielä julkaistu (lataus epäonnistui).');
 }
 
 function displayBetterChartLoadError() {
-  $('#error').append('Virhe tuloksen lataamisessa. Todennäköisesti vaalitulosta ei ole vielä julkaistu.');
+  $('#error').append('Vaalitulosta ei ole vielä julkaistu (lataus epäonnistui).');
 }
 
 function addChartLabels(chartLabelElement, results) {
