@@ -35,11 +35,11 @@ function loadResultData(resultPath, chartCallback, errorCallback) {
 }
 
 function displayChartLoadError(e) {
-  $('#chart').append('Vaalitulosta ei ole vielä julkaistu (lataus epäonnistui).');
+  $('#chart').append('Vaalitulosta ei ole vielä julkaistu.');
 }
 
 function displayBetterChartLoadError() {
-  $('#error').append('Vaalitulosta ei ole vielä julkaistu (lataus epäonnistui).');
+  $('#error').append('Vaalitulosta ei ole vielä julkaistu.');
 }
 
 function addChartLabels(chartLabelElement, results) {
