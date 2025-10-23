@@ -1,1 +1,329 @@
-{"name":"Äänten lukumäärä tunneittain","year":2025,"created_at":"2025-10-23T08:59:05.916+03:00","children":{"votes":[{"time":"2025-10-15 10:59","hourly_count":601,"cumulative_count":601},{"time":"2025-10-15 11:59","hourly_count":485,"cumulative_count":1086},{"time":"2025-10-15 12:59","hourly_count":397,"cumulative_count":1483},{"time":"2025-10-15 13:59","hourly_count":258,"cumulative_count":1741},{"time":"2025-10-15 14:59","hourly_count":229,"cumulative_count":1970},{"time":"2025-10-15 15:59","hourly_count":130,"cumulative_count":2100},{"time":"2025-10-15 16:59","hourly_count":104,"cumulative_count":2204},{"time":"2025-10-15 17:59","hourly_count":79,"cumulative_count":2283},{"time":"2025-10-15 18:59","hourly_count":90,"cumulative_count":2373},{"time":"2025-10-15 19:59","hourly_count":64,"cumulative_count":2437},{"time":"2025-10-16 10:59","hourly_count":179,"cumulative_count":2616},{"time":"2025-10-16 11:59","hourly_count":134,"cumulative_count":2750},{"time":"2025-10-16 12:59","hourly_count":207,"cumulative_count":2957},{"time":"2025-10-16 13:59","hourly_count":140,"cumulative_count":3097},{"time":"2025-10-16 14:59","hourly_count":112,"cumulative_count":3209},{"time":"2025-10-16 15:59","hourly_count":97,"cumulative_count":3306},{"time":"2025-10-16 16:59","hourly_count":78,"cumulative_count":3384},{"time":"2025-10-16 17:59","hourly_count":50,"cumulative_count":3434},{"time":"2025-10-16 18:59","hourly_count":61,"cumulative_count":3495},{"time":"2025-10-16 19:59","hourly_count":36,"cumulative_count":3531},{"time":"2025-10-17 10:59","hourly_count":92,"cumulative_count":3623},{"time":"2025-10-17 11:59","hourly_count":134,"cumulative_count":3757},{"time":"2025-10-17 12:59","hourly_count":151,"cumulative_count":3908},{"time":"2025-10-17 13:59","hourly_count":105,"cumulative_count":4013},{"time":"2025-10-17 14:59","hourly_count":82,"cumulative_count":4095},{"time":"2025-10-17 15:59","hourly_count":54,"cumulative_count":4149},{"time":"2025-10-17 16:59","hourly_count":50,"cumulative_count":4199},{"time":"2025-10-17 17:59","hourly_count":40,"cumulative_count":4239},{"time":"2025-10-17 18:59","hourly_count":31,"cumulative_count":4270},{"time":"2025-10-17 19:59","hourly_count":24,"cumulative_count":4294},{"time":"2025-10-20 10:59","hourly_count":59,"cumulative_count":4353},{"time":"2025-10-20 11:59","hourly_count":77,"cumulative_count":4430},{"time":"2025-10-20 12:59","hourly_count":124,"cumulative_count":4554},{"time":"2025-10-20 13:59","hourly_count":89,"cumulative_count":4643},{"time":"2025-10-20 14:59","hourly_count":103,"cumulative_count":4746},{"time":"2025-10-20 15:59","hourly_count":84,"cumulative_count":4830},{"time":"2025-10-20 16:59","hourly_count":63,"cumulative_count":4893},{"time":"2025-10-20 17:59","hourly_count":95,"cumulative_count":4988},{"time":"2025-10-20 18:59","hourly_count":77,"cumulative_count":5065},{"time":"2025-10-20 19:59","hourly_count":55,"cumulative_count":5120},{"time":"2025-10-20 20:59","hourly_count":1,"cumulative_count":5121},{"time":"2025-10-21 10:59","hourly_count":115,"cumulative_count":5236},{"time":"2025-10-21 11:59","hourly_count":145,"cumulative_count":5381},{"time":"2025-10-21 12:59","hourly_count":205,"cumulative_count":5586},{"time":"2025-10-21 13:59","hourly_count":142,"cumulative_count":5728},{"time":"2025-10-21 14:59","hourly_count":113,"cumulative_count":5841},{"time":"2025-10-21 15:59","hourly_count":80,"cumulative_count":5921},{"time":"2025-10-21 16:59","hourly_count":77,"cumulative_count":5998},{"time":"2025-10-21 17:59","hourly_count":72,"cumulative_count":6070},{"time":"2025-10-21 18:59","hourly_count":49,"cumulative_count":6119},{"time":"2025-10-21 19:59","hourly_count":59,"cumulative_count":6178},{"time":"2025-10-21 20:59","hourly_count":1,"cumulative_count":6179},{"time":"2025-10-22 10:59","hourly_count":154,"cumulative_count":6333},{"time":"2025-10-22 11:59","hourly_count":218,"cumulative_count":6551},{"time":"2025-10-22 12:59","hourly_count":208,"cumulative_count":6759},{"time":"2025-10-22 13:59","hourly_count":253,"cumulative_count":7012},{"time":"2025-10-22 14:59","hourly_count":205,"cumulative_count":7217},{"time":"2025-10-22 15:59","hourly_count":174,"cumulative_count":7391},{"time":"2025-10-22 16:59","hourly_count":166,"cumulative_count":7557},{"time":"2025-10-22 17:59","hourly_count":175,"cumulative_count":7732},{"time":"2025-10-22 18:59","hourly_count":174,"cumulative_count":7906},{"time":"2025-10-22 19:59","hourly_count":280,"cumulative_count":8186},{"time":"2025-10-22 20:59","hourly_count":4,"cumulative_count":8190}],"total":{"vote_count":8190,"voter_count":27274,"percentage":30.03}}}
+{
+  "name": "Äänten lukumäärä tunneittain",
+  "year": 2025,
+  "created_at": "2025-10-23T08:59:05.916+03:00",
+  "children": {
+    "votes": [
+      {
+        "time": "2025-10-15 10:59",
+        "hourly_count": 601,
+        "cumulative_count": 601
+      },
+      {
+        "time": "2025-10-15 11:59",
+        "hourly_count": 485,
+        "cumulative_count": 1086
+      },
+      {
+        "time": "2025-10-15 12:59",
+        "hourly_count": 397,
+        "cumulative_count": 1483
+      },
+      {
+        "time": "2025-10-15 13:59",
+        "hourly_count": 258,
+        "cumulative_count": 1741
+      },
+      {
+        "time": "2025-10-15 14:59",
+        "hourly_count": 229,
+        "cumulative_count": 1970
+      },
+      {
+        "time": "2025-10-15 15:59",
+        "hourly_count": 130,
+        "cumulative_count": 2100
+      },
+      {
+        "time": "2025-10-15 16:59",
+        "hourly_count": 104,
+        "cumulative_count": 2204
+      },
+      {
+        "time": "2025-10-15 17:59",
+        "hourly_count": 79,
+        "cumulative_count": 2283
+      },
+      {
+        "time": "2025-10-15 18:59",
+        "hourly_count": 90,
+        "cumulative_count": 2373
+      },
+      {
+        "time": "2025-10-15 19:59",
+        "hourly_count": 64,
+        "cumulative_count": 2437
+      },
+      {
+        "time": "2025-10-16 10:59",
+        "hourly_count": 179,
+        "cumulative_count": 2616
+      },
+      {
+        "time": "2025-10-16 11:59",
+        "hourly_count": 134,
+        "cumulative_count": 2750
+      },
+      {
+        "time": "2025-10-16 12:59",
+        "hourly_count": 207,
+        "cumulative_count": 2957
+      },
+      {
+        "time": "2025-10-16 13:59",
+        "hourly_count": 140,
+        "cumulative_count": 3097
+      },
+      {
+        "time": "2025-10-16 14:59",
+        "hourly_count": 112,
+        "cumulative_count": 3209
+      },
+      {
+        "time": "2025-10-16 15:59",
+        "hourly_count": 97,
+        "cumulative_count": 3306
+      },
+      {
+        "time": "2025-10-16 16:59",
+        "hourly_count": 78,
+        "cumulative_count": 3384
+      },
+      {
+        "time": "2025-10-16 17:59",
+        "hourly_count": 50,
+        "cumulative_count": 3434
+      },
+      {
+        "time": "2025-10-16 18:59",
+        "hourly_count": 61,
+        "cumulative_count": 3495
+      },
+      {
+        "time": "2025-10-16 19:59",
+        "hourly_count": 36,
+        "cumulative_count": 3531
+      },
+      {
+        "time": "2025-10-17 10:59",
+        "hourly_count": 92,
+        "cumulative_count": 3623
+      },
+      {
+        "time": "2025-10-17 11:59",
+        "hourly_count": 134,
+        "cumulative_count": 3757
+      },
+      {
+        "time": "2025-10-17 12:59",
+        "hourly_count": 151,
+        "cumulative_count": 3908
+      },
+      {
+        "time": "2025-10-17 13:59",
+        "hourly_count": 105,
+        "cumulative_count": 4013
+      },
+      {
+        "time": "2025-10-17 14:59",
+        "hourly_count": 82,
+        "cumulative_count": 4095
+      },
+      {
+        "time": "2025-10-17 15:59",
+        "hourly_count": 54,
+        "cumulative_count": 4149
+      },
+      {
+        "time": "2025-10-17 16:59",
+        "hourly_count": 50,
+        "cumulative_count": 4199
+      },
+      {
+        "time": "2025-10-17 17:59",
+        "hourly_count": 40,
+        "cumulative_count": 4239
+      },
+      {
+        "time": "2025-10-17 18:59",
+        "hourly_count": 31,
+        "cumulative_count": 4270
+      },
+      {
+        "time": "2025-10-17 19:59",
+        "hourly_count": 24,
+        "cumulative_count": 4294
+      },
+      {
+        "time": "2025-10-20 10:59",
+        "hourly_count": 59,
+        "cumulative_count": 4353
+      },
+      {
+        "time": "2025-10-20 11:59",
+        "hourly_count": 77,
+        "cumulative_count": 4430
+      },
+      {
+        "time": "2025-10-20 12:59",
+        "hourly_count": 124,
+        "cumulative_count": 4554
+      },
+      {
+        "time": "2025-10-20 13:59",
+        "hourly_count": 89,
+        "cumulative_count": 4643
+      },
+      {
+        "time": "2025-10-20 14:59",
+        "hourly_count": 103,
+        "cumulative_count": 4746
+      },
+      {
+        "time": "2025-10-20 15:59",
+        "hourly_count": 84,
+        "cumulative_count": 4830
+      },
+      {
+        "time": "2025-10-20 16:59",
+        "hourly_count": 63,
+        "cumulative_count": 4893
+      },
+      {
+        "time": "2025-10-20 17:59",
+        "hourly_count": 95,
+        "cumulative_count": 4988
+      },
+      {
+        "time": "2025-10-20 18:59",
+        "hourly_count": 77,
+        "cumulative_count": 5065
+      },
+      {
+        "time": "2025-10-20 19:59",
+        "hourly_count": 55,
+        "cumulative_count": 5120
+      },
+      {
+        "time": "2025-10-20 20:59",
+        "hourly_count": 1,
+        "cumulative_count": 5121
+      },
+      {
+        "time": "2025-10-21 10:59",
+        "hourly_count": 115,
+        "cumulative_count": 5236
+      },
+      {
+        "time": "2025-10-21 11:59",
+        "hourly_count": 145,
+        "cumulative_count": 5381
+      },
+      {
+        "time": "2025-10-21 12:59",
+        "hourly_count": 205,
+        "cumulative_count": 5586
+      },
+      {
+        "time": "2025-10-21 13:59",
+        "hourly_count": 142,
+        "cumulative_count": 5728
+      },
+      {
+        "time": "2025-10-21 14:59",
+        "hourly_count": 113,
+        "cumulative_count": 5841
+      },
+      {
+        "time": "2025-10-21 15:59",
+        "hourly_count": 80,
+        "cumulative_count": 5921
+      },
+      {
+        "time": "2025-10-21 16:59",
+        "hourly_count": 77,
+        "cumulative_count": 5998
+      },
+      {
+        "time": "2025-10-21 17:59",
+        "hourly_count": 72,
+        "cumulative_count": 6070
+      },
+      {
+        "time": "2025-10-21 18:59",
+        "hourly_count": 49,
+        "cumulative_count": 6119
+      },
+      {
+        "time": "2025-10-21 19:59",
+        "hourly_count": 59,
+        "cumulative_count": 6178
+      },
+      {
+        "time": "2025-10-21 20:59",
+        "hourly_count": 1,
+        "cumulative_count": 6179
+      },
+      {
+        "time": "2025-10-22 10:59",
+        "hourly_count": 154,
+        "cumulative_count": 6333
+      },
+      {
+        "time": "2025-10-22 11:59",
+        "hourly_count": 218,
+        "cumulative_count": 6551
+      },
+      {
+        "time": "2025-10-22 12:59",
+        "hourly_count": 208,
+        "cumulative_count": 6759
+      },
+      {
+        "time": "2025-10-22 13:59",
+        "hourly_count": 253,
+        "cumulative_count": 7012
+      },
+      {
+        "time": "2025-10-22 14:59",
+        "hourly_count": 205,
+        "cumulative_count": 7217
+      },
+      {
+        "time": "2025-10-22 15:59",
+        "hourly_count": 174,
+        "cumulative_count": 7391
+      },
+      {
+        "time": "2025-10-22 16:59",
+        "hourly_count": 166,
+        "cumulative_count": 7557
+      },
+      {
+        "time": "2025-10-22 17:59",
+        "hourly_count": 175,
+        "cumulative_count": 7732
+      },
+      {
+        "time": "2025-10-22 18:59",
+        "hourly_count": 174,
+        "cumulative_count": 7906
+      },
+      {
+        "time": "2025-10-22 19:59",
+        "hourly_count": 280,
+        "cumulative_count": 8186
+      },
+      {
+        "time": "2025-10-22 20:59",
+        "hourly_count": 4,
+        "cumulative_count": 8190
+      }
+    ],
+    "total": {
+      "vote_count": 8190,
+      "voter_count": 27274,
+      "percentage": 30.03
+    }
+  }
+}
