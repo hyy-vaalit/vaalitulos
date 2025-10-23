@@ -200,13 +200,8 @@
         "cumulative_count": 5065
       },
       {
-        "time": "2025-10-20 19:59",
-        "hourly_count": 55,
-        "cumulative_count": 5120
-      },
-      {
-        "time": "2025-10-20 20:59",
-        "hourly_count": 1,
+        "time": "2025-10-20 20:05",
+        "hourly_count": 56,
         "cumulative_count": 5121
       },
       {
@@ -255,13 +250,8 @@
         "cumulative_count": 6119
       },
       {
-        "time": "2025-10-21 19:59",
-        "hourly_count": 59,
-        "cumulative_count": 6178
-      },
-      {
-        "time": "2025-10-21 20:59",
-        "hourly_count": 1,
+        "time": "2025-10-21 20:05",
+        "hourly_count": 60,
         "cumulative_count": 6179
       },
       {
@@ -310,13 +300,8 @@
         "cumulative_count": 7906
       },
       {
-        "time": "2025-10-22 19:59",
-        "hourly_count": 280,
-        "cumulative_count": 8186
-      },
-      {
-        "time": "2025-10-22 20:59",
-        "hourly_count": 4,
+        "time": "2025-10-22 20:05",
+        "hourly_count": 284,
         "cumulative_count": 8190
       }
     ],
